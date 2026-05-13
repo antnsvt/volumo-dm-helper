@@ -1,3 +1,108 @@
 {
-  "genres": []
+  "genres": [
+    {
+      "slug": "afro-house",
+      "name": "Afro House"
+    },
+    {
+      "slug": "bass-house-future-house",
+      "name": "Bass House / Future House"
+    },
+    {
+      "slug": "breaks-breakbeat",
+      "name": "Breaks / Breakbeat"
+    },
+    {
+      "slug": "deep-house",
+      "name": "Deep House"
+    },
+    {
+      "slug": "drum-and-bass",
+      "name": "Drum and Bass"
+    },
+    {
+      "slug": "dubstep-bass-grime",
+      "name": "Dubstep / Bass / Grime"
+    },
+    {
+      "slug": "electro-classic-detroit",
+      "name": "Electro (Classic / Detroit)"
+    },
+    {
+      "slug": "electronica",
+      "name": "Electronica"
+    },
+    {
+      "slug": "funky-jackin-house",
+      "name": "Funky / Jackin' House"
+    },
+    {
+      "slug": "hard-techno",
+      "name": "Hard Techno"
+    },
+    {
+      "slug": "hardcore-hard-dance",
+      "name": "Hardcore / Hard Dance"
+    },
+    {
+      "slug": "house",
+      "name": "House"
+    },
+    {
+      "slug": "indie-dance-dark-disco",
+      "name": "Indie Dance / Dark Disco"
+    },
+    {
+      "slug": "melodic-house-techno",
+      "name": "Melodic House / Techno"
+    },
+    {
+      "slug": "microhouse",
+      "name": "Microhouse / Rominimal"
+    },
+    {
+      "slug": "minimal-deep-tech",
+      "name": "Minimal / Deep Tech"
+    },
+    {
+      "slug": "nudisco-soul-funk",
+      "name": "Nu-Disco / Soul / Funk"
+    },
+    {
+      "slug": "organic-house",
+      "name": "Organic House / Downtempo"
+    },
+    {
+      "slug": "progressive-house",
+      "name": "Progressive House"
+    },
+    {
+      "slug": "psy-trance",
+      "name": "Psy-Trance"
+    },
+    {
+      "slug": "soulful-house",
+      "name": "Soulful House"
+    },
+    {
+      "slug": "tech-house",
+      "name": "Tech House"
+    },
+    {
+      "slug": "techno-peak-time",
+      "name": "Techno (Peak Time)"
+    },
+    {
+      "slug": "techno-raw-deep-dub",
+      "name": "Techno (Raw, Deep, Dub)"
+    },
+    {
+      "slug": "trance",
+      "name": "Trance"
+    },
+    {
+      "slug": "uk-garage-2-step",
+      "name": "UK Garage / 2-Step"
+    }
+  ]
 }
