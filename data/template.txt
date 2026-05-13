@@ -1,236 +1,70 @@
-# 5 variants per kind. The script picks one per artist based on their name,
-# so the same artist always gets the same variant but different artists get
-# spread across the 5. Add/remove [kind] blocks as you like.
+# 10 variants. The script picks one per artist based on their name, so the
+# same artist always gets the same wording but different artists get spread
+# across the 10. All variants live under [default] so every kind (artist,
+# release, artist_of_month, release_of_month) uses the same pool.
 #
-# Placeholders: {name} = artist name, {release} = section name on Volumo.
+# Placeholders:
+#   {name}  - the artist's display name
+#   {genre} - the genre page they were featured on (e.g. "Tech House").
+#             Falls back to "main" if they're only on the main page, so
+#             "{genre} page" reads as "main page" instead of "Main page page".
 
-# ========== FEATURED ARTIST ==========
+[default]
+Hey {name}, hope all's good on your end. Quick note. We've got your track featured on Volumo's {genre} page right now. The sound is seriously on point.
 
-[artist]
-Hey {name},
+While we've got you, would you be up for putting together a DJ chart for us? Just your top 10 picks at the moment, stuff you're spinning or feeling lately. We'd push it out with proper placement across the platform.
+[/default]
 
-Hope you're doing well! Just wanted to let you know you're currently featured on Volumo's main page — congrats!
+[default]
+Yo {name}! Just wanted to drop in and say your release is currently sitting on our {genre} page over at Volumo, and it's been getting great reception.
 
-If you're up for it, putting together a quick chart of your own releases really helps boost your visibility on the platform.
+Would you be interested in doing a top 10 chart for us? Tracks you're playing, tracks you're vibing with, whatever feels right. We'd give it solid visibility on our end.
+[/default]
 
-Cheers,
-Volumo
-[/artist]
+[default]
+Hi {name}, hope the week's treating you well. Wanted to let you know your latest is featured on the {genre} section at Volumo. Genuinely strong release.
 
-[artist]
-Hi {name},
+If you're keen, we'd love to have you put together a DJ chart, a top 10 of what's in rotation for you right now. Happy to feature it prominently once it's done.
+[/default]
 
-Just a heads up — you're featured on Volumo's main page right now. Well deserved!
+[default]
+Hey {name}, got your track up on our {genre} page on Volumo at the moment. The production is doing it for us.
 
-Whenever you have a sec, putting together a short chart of your own releases is a great way to push your tracks in front of more listeners.
+Quick ask: want to make a top 10 chart with us? Tracks you're into, tracks you're playing out, whatever vibe. We'll put it in front of our audience with good placement.
+[/default]
 
-All the best,
-Volumo
-[/artist]
+[default]
+What's up {name}, hope things are good. Just a heads up that we've featured your release on the {genre} page at Volumo. Really digging what you put out.
 
-[artist]
-Hey {name},
+Would you be down to do a DJ chart? Just a top 10 of what's hitting for you right now. We'd run it with proper visibility across the platform.
+[/default]
 
-Wanted to drop you a quick note — you're up on Volumo's main page today. Big congrats!
+[default]
+Hey {name}, wanted to reach out. Your track is currently on rotation on our {genre} page at Volumo. Strong stuff.
 
-If you're up for it, a quick chart of your own releases goes a long way for visibility on the platform.
+If you're up for it, we'd love a top 10 chart from you. Tracks you're playing, tracks you're rinsing at home, whatever. We push these with solid visibility, so it'd get good eyes.
+[/default]
 
-Cheers,
-Volumo
-[/artist]
+[default]
+Hi {name}, hope you're well. Your release is featured on the {genre} page at Volumo right now, and the response has been great. Quality release.
 
-[artist]
-Hey {name},
+Would you be interested in making a DJ chart for us? A simple top 10 of tunes you're feeling or playing lately. We'd give it proper placement on the platform.
+[/default]
 
-Spotted you on Volumo's main page — congrats on the feature!
+[default]
+Yo {name}, quick one. We've got your track featured on our {genre} page on Volumo. The vibe is exactly what we look for.
 
-When you have a moment, throwing together a short chart of your own tracks really helps drive discovery for your stuff.
+Wondering if you'd be open to doing a DJ chart with us? Top 10, anything you're currently into or playing. We feature them with strong visibility, so it tends to land well.
+[/default]
 
-Best,
-Volumo
-[/artist]
+[default]
+Hey {name}, hope you're doing well. Just letting you know your release is up on the {genre} page at Volumo at the moment. Really nice work.
 
-[artist]
-Hi {name},
+Would love to invite you to put together a top 10 chart for the platform. Tracks you're playing, tracks you're loving, your call. We'd feature it properly so it gets seen.
+[/default]
 
-Quick message to say you're featured on Volumo's main page right now. Big congrats!
+[default]
+Hi {name}, hope all good. Wanted to flag that your release is featured on our {genre} page on Volumo right now. Loving the direction.
 
-If you fancy, a quick chart of your own releases is a really nice way to boost your reach on the platform.
-
-Cheers,
-Volumo
-[/artist]
-
-
-# ========== FEATURED RELEASE ==========
-
-[release]
-Hey {name},
-
-Hope you're doing well! Just wanted to let you know your release is currently on Volumo's main page — congrats!
-
-If you're up for it, putting together a quick chart of your own releases really helps boost your visibility on the platform.
-
-Cheers,
-Volumo
-[/release]
-
-[release]
-Hi {name},
-
-Quick heads up — your release just landed on Volumo's main page. Big congrats!
-
-When you have a sec, putting together a short chart of your own tracks goes a long way for visibility on the platform.
-
-All the best,
-Volumo
-[/release]
-
-[release]
-Hey {name},
-
-Wanted to drop you a note — your release is featured on Volumo's main page right now. Well deserved!
-
-If you've got a moment, throwing together a quick chart of your favorite releases really helps push your stuff in front of more listeners.
-
-Cheers,
-Volumo
-[/release]
-
-[release]
-Hey {name},
-
-Just a quick message — your release is up on the Volumo main page today. Congrats!
-
-Whenever you're up for it, a short chart of your own releases is a great way to get some extra eyes on your tracks.
-
-Best,
-Volumo
-[/release]
-
-[release]
-Hi {name},
-
-Spotted your release on Volumo's main page today — congrats on the feature!
-
-If you fancy, a quick chart of your own tracks is super handy for visibility on the site.
-
-Cheers,
-Volumo
-[/release]
-
-
-# ========== RELEASE OF THE MONTH ==========
-
-[release_of_month]
-Hey {name},
-
-Hope you're doing well! Massive congrats — your release is Volumo's Release of the Month and front-and-center on our main page.
-
-To make the most of the spotlight, would you be up for putting together a chart of your favorite releases? It really helps drive discovery for your tracks.
-
-Cheers,
-Volumo
-[/release_of_month]
-
-[release_of_month]
-Hi {name},
-
-Huge congrats — you've landed Volumo's Release of the Month! Your release is sitting front-and-center on our main page all month.
-
-If you're up for it, a chart of your own favorites is a great way to ride the momentum and push your tracks even further.
-
-All the best,
-Volumo
-[/release_of_month]
-
-[release_of_month]
-Hey {name},
-
-Quick note to say a massive congrats — your release is Volumo's Release of the Month and featured at the top of our main page.
-
-To make the most of the visibility, would you be up for putting together a quick chart? It's a really nice way to boost discovery for your catalogue.
-
-Cheers,
-Volumo
-[/release_of_month]
-
-[release_of_month]
-Hey {name},
-
-Big news — your release is Volumo's Release of the Month! It's front-and-center on the main page all month long.
-
-If you've got a few minutes, a chart of your favorite tracks is a great way to keep the spotlight working for you.
-
-Best,
-Volumo
-[/release_of_month]
-
-[release_of_month]
-Hi {name},
-
-Massive congrats — you're Volumo's Release of the Month and pinned on our main page all month!
-
-To squeeze the most out of the spotlight, would you be up for putting together a quick chart of your favorites? It's a really effective way to drive extra plays.
-
-Cheers,
-Volumo
-[/release_of_month]
-
-
-# ========== ARTIST OF THE MONTH ==========
-
-[artist_of_month]
-Hey {name},
-
-Massive congrats — you're Volumo's Artist of the Month! Your work is featured on our main page all month.
-
-To make the most of the spotlight, would you be up for putting together a chart of your favorite releases? It's a great way to boost discovery for your catalogue.
-
-Cheers,
-Volumo
-[/artist_of_month]
-
-[artist_of_month]
-Hi {name},
-
-Huge congrats — you're Volumo's Artist of the Month! You're up on our main page for the whole month.
-
-If you're up for it, a chart of your favorite releases is a really nice way to ride the momentum and push your catalogue even further.
-
-All the best,
-Volumo
-[/artist_of_month]
-
-[artist_of_month]
-Hey {name},
-
-Quick note to say a big congrats — you're Volumo's Artist of the Month! Your work's featured at the top of our main page.
-
-To make the most of the visibility, would you be up for putting together a quick chart? It's a great way to drive extra discovery for your tracks.
-
-Cheers,
-Volumo
-[/artist_of_month]
-
-[artist_of_month]
-Hey {name},
-
-Big news — you're Volumo's Artist of the Month! Pride of place on the main page for the next 30 days.
-
-If you've got a few minutes, putting together a chart of your favorite releases is a great way to keep the spotlight working for you.
-
-Best,
-Volumo
-[/artist_of_month]
-
-[artist_of_month]
-Hi {name},
-
-Massive congrats — you're Volumo's Artist of the Month, featured front-and-center on the main page!
-
-To squeeze the most out of it, would you be up for putting together a quick chart of your favorites? It's a really effective way to convert the spotlight into plays.
-
-Cheers,
-Volumo
-[/artist_of_month]
+If you've got a few minutes, would you be up for doing a DJ chart? Just your top 10 at the moment, tracks you're playing or feeling. We'd run it with good visibility across the platform.
+[/default]
