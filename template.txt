@@ -1,0 +1,236 @@
+# 5 variants per kind. The script picks one per artist based on their name,
+# so the same artist always gets the same variant but different artists get
+# spread across the 5. Add/remove [kind] blocks as you like.
+#
+# Placeholders: {name} = artist name, {release} = section name on Volumo.
+
+# ========== FEATURED ARTIST ==========
+
+[artist]
+Hey {name},
+
+Hope you're doing well! Just wanted to let you know you're currently featured on Volumo's main page — congrats!
+
+If you're up for it, putting together a quick chart of your own releases really helps boost your visibility on the platform.
+
+Cheers,
+Volumo
+[/artist]
+
+[artist]
+Hi {name},
+
+Just a heads up — you're featured on Volumo's main page right now. Well deserved!
+
+Whenever you have a sec, putting together a short chart of your own releases is a great way to push your tracks in front of more listeners.
+
+All the best,
+Volumo
+[/artist]
+
+[artist]
+Hey {name},
+
+Wanted to drop you a quick note — you're up on Volumo's main page today. Big congrats!
+
+If you're up for it, a quick chart of your own releases goes a long way for visibility on the platform.
+
+Cheers,
+Volumo
+[/artist]
+
+[artist]
+Hey {name},
+
+Spotted you on Volumo's main page — congrats on the feature!
+
+When you have a moment, throwing together a short chart of your own tracks really helps drive discovery for your stuff.
+
+Best,
+Volumo
+[/artist]
+
+[artist]
+Hi {name},
+
+Quick message to say you're featured on Volumo's main page right now. Big congrats!
+
+If you fancy, a quick chart of your own releases is a really nice way to boost your reach on the platform.
+
+Cheers,
+Volumo
+[/artist]
+
+
+# ========== FEATURED RELEASE ==========
+
+[release]
+Hey {name},
+
+Hope you're doing well! Just wanted to let you know your release is currently on Volumo's main page — congrats!
+
+If you're up for it, putting together a quick chart of your own releases really helps boost your visibility on the platform.
+
+Cheers,
+Volumo
+[/release]
+
+[release]
+Hi {name},
+
+Quick heads up — your release just landed on Volumo's main page. Big congrats!
+
+When you have a sec, putting together a short chart of your own tracks goes a long way for visibility on the platform.
+
+All the best,
+Volumo
+[/release]
+
+[release]
+Hey {name},
+
+Wanted to drop you a note — your release is featured on Volumo's main page right now. Well deserved!
+
+If you've got a moment, throwing together a quick chart of your favorite releases really helps push your stuff in front of more listeners.
+
+Cheers,
+Volumo
+[/release]
+
+[release]
+Hey {name},
+
+Just a quick message — your release is up on the Volumo main page today. Congrats!
+
+Whenever you're up for it, a short chart of your own releases is a great way to get some extra eyes on your tracks.
+
+Best,
+Volumo
+[/release]
+
+[release]
+Hi {name},
+
+Spotted your release on Volumo's main page today — congrats on the feature!
+
+If you fancy, a quick chart of your own tracks is super handy for visibility on the site.
+
+Cheers,
+Volumo
+[/release]
+
+
+# ========== RELEASE OF THE MONTH ==========
+
+[release_of_month]
+Hey {name},
+
+Hope you're doing well! Massive congrats — your release is Volumo's Release of the Month and front-and-center on our main page.
+
+To make the most of the spotlight, would you be up for putting together a chart of your favorite releases? It really helps drive discovery for your tracks.
+
+Cheers,
+Volumo
+[/release_of_month]
+
+[release_of_month]
+Hi {name},
+
+Huge congrats — you've landed Volumo's Release of the Month! Your release is sitting front-and-center on our main page all month.
+
+If you're up for it, a chart of your own favorites is a great way to ride the momentum and push your tracks even further.
+
+All the best,
+Volumo
+[/release_of_month]
+
+[release_of_month]
+Hey {name},
+
+Quick note to say a massive congrats — your release is Volumo's Release of the Month and featured at the top of our main page.
+
+To make the most of the visibility, would you be up for putting together a quick chart? It's a really nice way to boost discovery for your catalogue.
+
+Cheers,
+Volumo
+[/release_of_month]
+
+[release_of_month]
+Hey {name},
+
+Big news — your release is Volumo's Release of the Month! It's front-and-center on the main page all month long.
+
+If you've got a few minutes, a chart of your favorite tracks is a great way to keep the spotlight working for you.
+
+Best,
+Volumo
+[/release_of_month]
+
+[release_of_month]
+Hi {name},
+
+Massive congrats — you're Volumo's Release of the Month and pinned on our main page all month!
+
+To squeeze the most out of the spotlight, would you be up for putting together a quick chart of your favorites? It's a really effective way to drive extra plays.
+
+Cheers,
+Volumo
+[/release_of_month]
+
+
+# ========== ARTIST OF THE MONTH ==========
+
+[artist_of_month]
+Hey {name},
+
+Massive congrats — you're Volumo's Artist of the Month! Your work is featured on our main page all month.
+
+To make the most of the spotlight, would you be up for putting together a chart of your favorite releases? It's a great way to boost discovery for your catalogue.
+
+Cheers,
+Volumo
+[/artist_of_month]
+
+[artist_of_month]
+Hi {name},
+
+Huge congrats — you're Volumo's Artist of the Month! You're up on our main page for the whole month.
+
+If you're up for it, a chart of your favorite releases is a really nice way to ride the momentum and push your catalogue even further.
+
+All the best,
+Volumo
+[/artist_of_month]
+
+[artist_of_month]
+Hey {name},
+
+Quick note to say a big congrats — you're Volumo's Artist of the Month! Your work's featured at the top of our main page.
+
+To make the most of the visibility, would you be up for putting together a quick chart? It's a great way to drive extra discovery for your tracks.
+
+Cheers,
+Volumo
+[/artist_of_month]
+
+[artist_of_month]
+Hey {name},
+
+Big news — you're Volumo's Artist of the Month! Pride of place on the main page for the next 30 days.
+
+If you've got a few minutes, putting together a chart of your favorite releases is a great way to keep the spotlight working for you.
+
+Best,
+Volumo
+[/artist_of_month]
+
+[artist_of_month]
+Hi {name},
+
+Massive congrats — you're Volumo's Artist of the Month, featured front-and-center on the main page!
+
+To squeeze the most out of it, would you be up for putting together a quick chart of your favorites? It's a really effective way to convert the spotlight into plays.
+
+Cheers,
+Volumo
+[/artist_of_month]
