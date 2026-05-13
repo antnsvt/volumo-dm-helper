@@ -5,7 +5,7 @@
  * data requests (api.github.com) go straight to the network — never cached,
  * because they're per-PAT and time-sensitive.
  */
-const SHELL_CACHE = 'volumo-dm-shell-v1';
+const SHELL_CACHE = 'volumo-dm-shell-v2';
 const SHELL_ASSETS = [
   './',
   './index.html',

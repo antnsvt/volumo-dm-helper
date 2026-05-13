@@ -12,20 +12,17 @@ const SCRAPE_WORKFLOW = 'scrape.yml';
 const POLL_INTERVAL_MS = 5000;
 const MUTATE_REFETCH_DELAY_MS = 8000;
 
+// Hardcoded for this deploy. The app is single-tenant per Pages site so the
+// user doesn't have to retype the owner/repo every time the token rotates.
+const OWNER = 'antnsvt';
+const REPO = 'volumo-dm-helper';
+
 const STORE = {
-  owner: () => localStorage.getItem('volumo.owner') || '',
-  repo: () => localStorage.getItem('volumo.repo') || '',
+  owner: () => OWNER,
+  repo: () => REPO,
   pat: () => localStorage.getItem('volumo.pat') || '',
-  set: (owner, repo, pat) => {
-    localStorage.setItem('volumo.owner', owner);
-    localStorage.setItem('volumo.repo', repo);
-    localStorage.setItem('volumo.pat', pat);
-  },
-  clear: () => {
-    localStorage.removeItem('volumo.owner');
-    localStorage.removeItem('volumo.repo');
-    localStorage.removeItem('volumo.pat');
-  },
+  set: (pat) => { localStorage.setItem('volumo.pat', pat); },
+  clear: () => { localStorage.removeItem('volumo.pat'); },
 };
 
 let allCreators = [];
@@ -120,26 +117,21 @@ async function loadJsonFromRepo(path) {
 function showSetup(errMsg) {
   $('setup').classList.remove('hidden');
   $('app').classList.add('hidden');
-  $('setup-owner').value = STORE.owner();
-  $('setup-repo').value = STORE.repo();
   $('setup-pat').value = STORE.pat();
   $('setup-error').textContent = errMsg || '';
 }
 
 async function saveSetup() {
-  const owner = $('setup-owner').value.trim();
-  const repo = $('setup-repo').value.trim();
   const pat = $('setup-pat').value.trim();
-  if (!owner || !repo || !pat) {
-    $('setup-error').textContent = 'All three fields are required.';
+  if (!pat) {
+    $('setup-error').textContent = 'Token is required.';
     return;
   }
-  STORE.set(owner, repo, pat);
+  STORE.set(pat);
   $('setup-error').textContent = 'Validating...';
   try {
-    const user = await ghGet('/user');
-    const repoInfo = await ghGet(`/repos/${owner}/${repo}`);
-    console.log('Auth OK as', user.login, '— repo:', repoInfo.full_name);
+    const repoInfo = await ghGet(`/repos/${OWNER}/${REPO}`);
+    console.log('Auth OK — repo:', repoInfo.full_name);
     $('setup').classList.add('hidden');
     $('app').classList.remove('hidden');
     bootstrap();
@@ -553,7 +545,7 @@ if ('serviceWorker' in navigator) {
 
 wireSetup();
 wireHeader();
-if (STORE.pat() && STORE.owner() && STORE.repo()) {
+if (STORE.pat()) {
   $('app').classList.remove('hidden');
   bootstrap();
 } else {

@@ -15,23 +15,17 @@
 </head>
 <body>
 
-<!-- Setup overlay (shown when PAT/owner/repo aren't configured) -->
+<!-- Setup overlay (shown when no PAT is stored) -->
 <div id="setup" class="overlay hidden">
   <div class="setup-card">
     <h1>Volumo DM Helper</h1>
-    <p class="muted">One-time setup. These values are stored only on this device.</p>
-    <label>GitHub username (repo owner)
-      <input id="setup-owner" autocomplete="off" placeholder="yourname">
-    </label>
-    <label>Repo name
-      <input id="setup-repo" autocomplete="off" placeholder="volumo-dm-helper">
-    </label>
+    <p class="muted">Paste your GitHub token to connect. Stored only on this device.</p>
     <label>Fine-grained personal access token
       <textarea id="setup-pat" rows="3" autocomplete="off" spellcheck="false"
         placeholder="github_pat_..."></textarea>
     </label>
-    <p class="hint">Scopes needed: <b>Actions: read/write</b>, <b>Contents: read/write</b>, <b>Metadata: read</b>.
-      Scope the token to this single repo. Default 90-day expiry is fine — the app will warn you when it gets close.</p>
+    <p class="hint">The token must have these permissions on the volumo-dm-helper repo:<br>
+      <b>Actions: Read and write</b> &middot; <b>Contents: Read and write</b> &middot; <b>Metadata: Read</b>.</p>
     <div class="setup-row">
       <button id="setup-save">Save and continue</button>
       <span id="setup-error" class="error"></span>
