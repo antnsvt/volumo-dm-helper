@@ -424,6 +424,20 @@ function renderCards() {
     ta.value = c.message;
     card.appendChild(ta);
 
+    // Prominent "Open page for screenshot" button at the top of the actions.
+    const screenshotOrigin = (c.origins || []).find(o => o && o.toLowerCase() !== 'main page')
+                            || (c.origins || [])[0];
+    const screenshotUrl = screenshotOrigin ? sourceUrls[screenshotOrigin] : null;
+    if (screenshotUrl) {
+      const screenshotRow = el('div', {class: 'row'});
+      screenshotRow.appendChild(el('a', {
+        class: 'btn',
+        href: screenshotUrl,
+        target: '_blank',
+      }, 'Open ' + screenshotOrigin + ' page'));
+      card.appendChild(screenshotRow);
+    }
+
     const row = el('div', {class: 'row'});
     const copyBtn = el('button', {}, 'Copy message');
     copyBtn.onclick = () => { navigator.clipboard.writeText(ta.value); toast('Copied!'); };
@@ -447,7 +461,7 @@ function renderCards() {
         class: 'btn secondary',
         href: c.profile_url,
         target: '_blank',
-      }, 'Volumo page'));
+      }, 'Artist page'));
     }
     card.appendChild(row);
 

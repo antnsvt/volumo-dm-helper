@@ -403,6 +403,21 @@ function buildCard(c) {
   ta.value = c.message || '';
   card.appendChild(ta);
 
+  // Pick the most useful Volumo page link for screenshotting: the first
+  // genre origin (not "Main page"), fall back to "Main page" if that's all.
+  const screenshotOrigin = (c.origins || []).find(o => o && o.toLowerCase() !== 'main page')
+                          || (c.origins || [])[0];
+  const screenshotUrl = screenshotOrigin ? sourceUrls[screenshotOrigin] : null;
+  if (screenshotUrl) {
+    const screenshotRow = el('div', { class: 'row' });
+    screenshotRow.appendChild(el('a', {
+      class: 'btn',
+      href: screenshotUrl,
+      target: '_blank', rel: 'noopener',
+    }, 'Open ' + screenshotOrigin + ' page'));
+    card.appendChild(screenshotRow);
+  }
+
   const row = el('div', { class: 'row' });
   const copyBtn = el('button', null, 'Copy message');
   copyBtn.onclick = async () => {
@@ -429,7 +444,7 @@ function buildCard(c) {
       class: 'btn secondary',
       href: c.profile_url,
       target: '_blank', rel: 'noopener',
-    }, 'Volumo page'));
+    }, 'Artist page'));
   }
   card.appendChild(row);
 

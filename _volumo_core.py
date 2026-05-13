@@ -772,6 +772,19 @@ def load_templates(template_path: Path):
     return tmpls
 
 
+def _pick_genre_label(origins):
+    """For {genre} substitution: prefer a real genre name over 'Main page' so
+    the message reads 'Volumo's Tech House page' rather than 'Volumo's Main
+    page page'. If only 'Main page' is in origins, fall back to 'main' so the
+    surrounding 'page' word in the template still scans naturally."""
+    others = [o for o in (origins or []) if o and o.lower() != "main page"]
+    if others:
+        return others[0]
+    if origins:
+        return "main"
+    return ""
+
+
 def render_message(creator, tmpls):
     key = creator["kind_key"]
     variants = (tmpls.get(key) or tmpls.get("artist")
@@ -780,4 +793,5 @@ def render_message(creator, tmpls):
     tmpl = variants[idx]
     return (tmpl
             .replace("{name}", creator["name"])
+            .replace("{genre}", _pick_genre_label(creator.get("origins")))
             .replace("{release}", creator.get("section", "")))
