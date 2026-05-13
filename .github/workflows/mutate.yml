@@ -1,0 +1,58 @@
+name: Apply mutation
+
+on:
+  repository_dispatch:
+    types:
+      - save-handle
+      - mark-sent
+
+# Serialize mutation runs so two simultaneous edits (e.g. one device saving
+# while another marks sent) don't race each other's commit on the state branch.
+concurrency:
+  group: volumo-mutate
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  mutate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout code (main)
+        uses: actions/checkout@v4
+
+      - name: Checkout state branch into _state
+        uses: actions/checkout@v4
+        with:
+          ref: state
+          path: _state
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install minimal deps
+        run: pip install requests beautifulsoup4
+
+      - name: Apply mutation
+        env:
+          VOLUMO_DATA_DIR: ${{ github.workspace }}/_state/data
+          PAYLOAD: ${{ toJson(github.event.client_payload) }}
+        run: python mutate.py --event "${{ github.event.action }}" --payload "$PAYLOAD"
+
+      - name: Commit and push state
+        working-directory: _state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "no changes"
+          else
+            git commit -m "${{ github.event.action }}: ${{ toJson(github.event.client_payload) }}"
+            git push origin HEAD:state
+          fi

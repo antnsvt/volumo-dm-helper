@@ -1,0 +1,14 @@
+# Local-only state. The state branch holds the canonical copy of data/.
+data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Workflow checkout dir (used by Actions when checking out state branch)
+_state/
+
+# OS
+.DS_Store
+Thumbs.db
