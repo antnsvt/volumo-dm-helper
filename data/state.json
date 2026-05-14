@@ -1,128 +1,704 @@
 {
   "status": "done",
-  "date": "2026-05-13",
-  "started_at": "2026-05-13T20:32:08.494110+00:00",
-  "finished_at": "2026-05-13T20:32:25.018103+00:00",
+  "date": "2026-05-14",
+  "started_at": "2026-05-14T07:08:46.880677+00:00",
+  "finished_at": "2026-05-14T07:11:27.996573+00:00",
   "creators": [
     {
-      "name": "Noha",
-      "display_kind": "Artist of the Month",
-      "kind_key": "artist_of_month",
-      "section": "Artist of the month",
-      "origins": [
-        "Main page"
-      ],
-      "profile_url": "https://volumo.com/artist/127923-noha",
-      "release_url": null,
-      "instagram": "noha",
-      "confidence": "verified",
-      "source": "cache",
-      "sent_today": false,
-      "message": "so every kind (artist,\n# release, artist_of_month, release_of_month) uses the same pool.\n#\n# Placeholders:\n#   Noha  - the artist's display name\n#   main - the genre page they were featured on (e.g. \"Tech House\").\n#             Falls back to \"main\" if they're only on the main page, so\n#             \"main page\" reads as \"main page\" instead of \"Main page page\".\n\n[default]\nHey Noha, hope all's good on your end. Quick note. We've got your track featured on Volumo's main page right now. The sound is seriously on point.\n\nWhile we've got you, would you be up for putting together a DJ chart for us? Just your top 10 picks at the moment, stuff you're spinning or feeling lately. We'd push it out with proper placement across the platform."
-    },
-    {
-      "name": "ISKRA",
-      "display_kind": "Artist of the Month",
-      "kind_key": "artist_of_month",
-      "section": "Artist of the month",
-      "origins": [
-        "Main page"
-      ],
-      "profile_url": "https://volumo.com/artist/823394-iskra",
-      "release_url": null,
-      "instagram": "iskra",
-      "confidence": "verified",
-      "source": "cache",
-      "sent_today": false,
-      "message": "Hey ISKRA, hope you're doing well. Just letting you know your release is up on the main page at Volumo at the moment. Really nice work.\n\nWould love to invite you to put together a top 10 chart for the platform. Tracks you're playing, tracks you're loving, your call. We'd feature it properly so it gets seen."
-    },
-    {
-      "name": "Djebali",
+      "name": "Thick As Thieves",
       "display_kind": "Featured Release",
       "kind_key": "release",
-      "section": "Featured Volumo Direct releases",
+      "section": "Featured releases",
       "origins": [
-        "Main page"
+        "Hard Techno"
       ],
-      "profile_url": "https://volumo.com/artist/34432-djebali",
-      "release_url": "https://volumo.com/album/1647569-vol-013",
-      "instagram": "djebali",
-      "confidence": "verified",
-      "source": "cache",
-      "sent_today": false,
-      "message": "Hey Djebali, got your track up on our main page on Volumo at the moment. The production is doing it for us.\n\nQuick ask: want to make a top 10 chart with us? Tracks you're into, tracks you're playing out, whatever vibe. We'll put it in front of our audience with good placement."
-    },
-    {
-      "name": "Yeadon",
-      "display_kind": "Featured Release",
-      "kind_key": "release",
-      "section": "Featured Volumo Direct releases",
-      "origins": [
-        "Main page"
-      ],
-      "profile_url": "https://volumo.com/artist/144284-yeadon",
-      "release_url": "https://volumo.com/album/1611752-fades-away",
-      "instagram": "yeadonmusic",
-      "confidence": "verified",
-      "source": "cache",
-      "sent_today": false,
-      "message": "Hey Yeadon, hope you're doing well. Just letting you know your release is up on the main page at Volumo at the moment. Really nice work.\n\nWould love to invite you to put together a top 10 chart for the platform. Tracks you're playing, tracks you're loving, your call. We'd feature it properly so it gets seen."
-    },
-    {
-      "name": "Positiver",
-      "display_kind": "Featured Release",
-      "kind_key": "release",
-      "section": "Featured Volumo Direct releases",
-      "origins": [
-        "Main page"
-      ],
-      "profile_url": "https://volumo.com/artist/675764-positiver",
-      "release_url": "https://volumo.com/album/1644802-inner-caller",
-      "instagram": "positiver303",
-      "confidence": "verified",
-      "source": "cache",
-      "sent_today": false,
-      "message": "Hey Positiver, wanted to reach out. Your track is currently on rotation on our main page at Volumo. Strong stuff.\n\nIf you're up for it, we'd love a top 10 chart from you. Tracks you're playing, tracks you're rinsing at home, whatever. We push these with solid visibility, so it'd get good eyes."
-    },
-    {
-      "name": "Fraser Canobie",
-      "display_kind": "Featured Release",
-      "kind_key": "release",
-      "section": "Featured Volumo Direct releases",
-      "origins": [
-        "Main page"
-      ],
-      "profile_url": "https://volumo.com/artist/623238-fraser-canobie",
-      "release_url": "https://volumo.com/album/1609280-come-with-me",
-      "instagram": "frasercanobie",
-      "confidence": "verified",
-      "source": "cache",
-      "sent_today": false,
-      "message": "Hi Fraser Canobie, hope the week's treating you well. Wanted to let you know your latest is featured on the main section at Volumo. Genuinely strong release.\n\nIf you're keen, we'd love to have you put together a DJ chart, a top 10 of what's in rotation for you right now. Happy to feature it prominently once it's done."
-    },
-    {
-      "name": "Fred P",
-      "display_kind": "Featured Release",
-      "kind_key": "release",
-      "section": "Featured Volumo Direct releases",
-      "origins": [
-        "Main page"
-      ],
-      "profile_url": "https://volumo.com/artist/29086-fred-p",
-      "release_url": "https://volumo.com/album/1495211-bqddig003-various-artists-part-three",
+      "profile_url": "https://volumo.com/artist/1009450-thick-as-thieves",
+      "release_url": "https://volumo.com/album/4065328881034-hyperspeed",
       "instagram": null,
       "confidence": "verified",
       "source": null,
       "sent_today": false,
-      "message": "Yo Fred P, quick one. We've got your track featured on our main page on Volumo. The vibe is exactly what we look for.\n\nWondering if you'd be open to doing a DJ chart with us? Top 10, anything you're currently into or playing. We feature them with strong visibility, so it tends to land well."
+      "message": "Yo Thick As Thieves! Just wanted to drop in and say your release is currently sitting on our Hard Techno page over at Volumo, and it's been getting great reception.\n\nWould you be interested in doing a top 10 chart for us? Tracks you're playing, tracks you're vibing with, whatever feels right. We'd give it solid visibility on our end."
+    },
+    {
+      "name": "Lively Racket",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured releases",
+      "origins": [
+        "Hard Techno"
+      ],
+      "profile_url": "https://volumo.com/artist/186870-lively-racket",
+      "release_url": "https://volumo.com/album/5063857581684-intruder",
+      "instagram": null,
+      "confidence": "verified",
+      "source": null,
+      "sent_today": false,
+      "message": "Hey Lively Racket, got your track up on our Hard Techno page on Volumo at the moment. The production is doing it for us.\n\nQuick ask: want to make a top 10 chart with us? Tracks you're into, tracks you're playing out, whatever vibe. We'll put it in front of our audience with good placement."
+    },
+    {
+      "name": "VOIDRAGE",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured releases",
+      "origins": [
+        "Hard Techno"
+      ],
+      "profile_url": "https://volumo.com/artist/997479-voidrage",
+      "release_url": "https://volumo.com/album/8721466847924-embracing-the-void",
+      "instagram": null,
+      "confidence": "verified",
+      "source": null,
+      "sent_today": false,
+      "message": "Hey VOIDRAGE, got your track up on our Hard Techno page on Volumo at the moment. The production is doing it for us.\n\nQuick ask: want to make a top 10 chart with us? Tracks you're into, tracks you're playing out, whatever vibe. We'll put it in front of our audience with good placement."
+    },
+    {
+      "name": "Kaori",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured releases",
+      "origins": [
+        "Hard Techno"
+      ],
+      "profile_url": "https://volumo.com/artist/154988-kaori",
+      "release_url": "https://volumo.com/album/8721466904924-the-unholy",
+      "instagram": "kaorikellermusic",
+      "confidence": "verified",
+      "source": "volumo",
+      "sent_today": false,
+      "message": "Hi Kaori, hope the week's treating you well. Wanted to let you know your latest is featured on the Hard Techno section at Volumo. Genuinely strong release.\n\nIf you're keen, we'd love to have you put together a DJ chart, a top 10 of what's in rotation for you right now. Happy to feature it prominently once it's done."
+    },
+    {
+      "name": "Aphøtic",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured releases",
+      "origins": [
+        "Hard Techno"
+      ],
+      "profile_url": "https://volumo.com/artist/892755-aphotic",
+      "release_url": "https://volumo.com/album/5054289829048-music-is-my-drug-ep",
+      "instagram": null,
+      "confidence": "verified",
+      "source": null,
+      "sent_today": false,
+      "message": "Hi Aphøtic, hope all good. Wanted to flag that your release is featured on our Hard Techno page on Volumo right now. Loving the direction.\n\nIf you've got a few minutes, would you be up for doing a DJ chart? Just your top 10 at the moment, tracks you're playing or feeling. We'd run it with good visibility across the platform."
+    },
+    {
+      "name": "Domingo Caballero",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured releases",
+      "origins": [
+        "Hard Techno"
+      ],
+      "profile_url": "https://volumo.com/artist/1428-domingo-caballero",
+      "release_url": "https://volumo.com/album/4065328876870-other-side",
+      "instagram": null,
+      "confidence": "verified",
+      "source": null,
+      "sent_today": false,
+      "message": "so every kind (artist,\n# release, artist_of_month, release_of_month) uses the same pool.\n#\n# Placeholders:\n#   Domingo Caballero  - the artist's display name\n#   Hard Techno - the genre page they were featured on (e.g. \"Tech House\").\n#             Falls back to \"main\" if they're only on the main page, so\n#             \"Hard Techno page\" reads as \"main page\" instead of \"Main page page\".\n\n[default]\nHey Domingo Caballero, hope all's good on your end. Quick note. We've got your track featured on Volumo's Hard Techno page right now. The sound is seriously on point.\n\nWhile we've got you, would you be up for putting together a DJ chart for us? Just your top 10 picks at the moment, stuff you're spinning or feeling lately. We'd push it out with proper placement across the platform."
+    },
+    {
+      "name": "Ericson (DE)",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured releases",
+      "origins": [
+        "Hard Techno"
+      ],
+      "profile_url": "https://volumo.com/artist/432466-ericson-de",
+      "release_url": "https://volumo.com/album/4065328881706-bumblebee",
+      "instagram": null,
+      "confidence": "verified",
+      "source": null,
+      "sent_today": false,
+      "message": "Hey Ericson (DE), got your track up on our Hard Techno page on Volumo at the moment. The production is doing it for us.\n\nQuick ask: want to make a top 10 chart with us? Tracks you're into, tracks you're playing out, whatever vibe. We'll put it in front of our audience with good placement."
+    },
+    {
+      "name": "ANIBAL SANTOS",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured releases",
+      "origins": [
+        "Hard Techno"
+      ],
+      "profile_url": "https://volumo.com/artist/1057590-anibal-santos",
+      "release_url": "https://volumo.com/album/824296273197-anibal-santos-vs-darkenemy",
+      "instagram": null,
+      "confidence": "verified",
+      "source": null,
+      "sent_today": false,
+      "message": "Yo ANIBAL SANTOS, quick one. We've got your track featured on our Hard Techno page on Volumo. The vibe is exactly what we look for.\n\nWondering if you'd be open to doing a DJ chart with us? Top 10, anything you're currently into or playing. We feature them with strong visibility, so it tends to land well."
+    },
+    {
+      "name": "ZNM",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured releases",
+      "origins": [
+        "Hard Techno"
+      ],
+      "profile_url": "https://volumo.com/artist/1056404-znm",
+      "release_url": "https://volumo.com/album/4065328870793-my-own-land",
+      "instagram": null,
+      "confidence": "verified",
+      "source": null,
+      "sent_today": false,
+      "message": "Hey ZNM, wanted to reach out. Your track is currently on rotation on our Hard Techno page at Volumo. Strong stuff.\n\nIf you're up for it, we'd love a top 10 chart from you. Tracks you're playing, tracks you're rinsing at home, whatever. We push these with solid visibility, so it'd get good eyes."
+    },
+    {
+      "name": "Felix R",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured releases",
+      "origins": [
+        "Hard Techno"
+      ],
+      "profile_url": "https://volumo.com/artist/150153-felix-r",
+      "release_url": "https://volumo.com/album/853567550934-snakepit",
+      "instagram": null,
+      "confidence": "verified",
+      "source": null,
+      "sent_today": false,
+      "message": "Hey Felix R, hope you're doing well. Just letting you know your release is up on the Hard Techno page at Volumo at the moment. Really nice work.\n\nWould love to invite you to put together a top 10 chart for the platform. Tracks you're playing, tracks you're loving, your call. We'd feature it properly so it gets seen."
+    },
+    {
+      "name": "FLuH",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured releases",
+      "origins": [
+        "Hard Techno"
+      ],
+      "profile_url": "https://volumo.com/artist/584245-fluh",
+      "release_url": "https://volumo.com/album/853567544643-watching-the-waves",
+      "instagram": null,
+      "confidence": "verified",
+      "source": null,
+      "sent_today": false,
+      "message": "Hey FLuH, wanted to reach out. Your track is currently on rotation on our Hard Techno page at Volumo. Strong stuff.\n\nIf you're up for it, we'd love a top 10 chart from you. Tracks you're playing, tracks you're rinsing at home, whatever. We push these with solid visibility, so it'd get good eyes."
+    },
+    {
+      "name": "VLTN",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured releases",
+      "origins": [
+        "Hard Techno"
+      ],
+      "profile_url": "https://volumo.com/artist/995911-vltn",
+      "release_url": "https://volumo.com/album/4065328871585-rock-that-shit",
+      "instagram": null,
+      "confidence": "verified",
+      "source": null,
+      "sent_today": false,
+      "message": "What's up VLTN, hope things are good. Just a heads up that we've featured your release on the Hard Techno page at Volumo. Really digging what you put out.\n\nWould you be down to do a DJ chart? Just a top 10 of what's hitting for you right now. We'd run it with proper visibility across the platform."
+    },
+    {
+      "name": "YOOMANS",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured releases",
+      "origins": [
+        "Hard Techno"
+      ],
+      "profile_url": "https://volumo.com/artist/853385-yoomans",
+      "release_url": "https://volumo.com/album/9361385254954-inevitable-close-your-eyes",
+      "instagram": null,
+      "confidence": "verified",
+      "source": null,
+      "sent_today": false,
+      "message": "so every kind (artist,\n# release, artist_of_month, release_of_month) uses the same pool.\n#\n# Placeholders:\n#   YOOMANS  - the artist's display name\n#   Hard Techno - the genre page they were featured on (e.g. \"Tech House\").\n#             Falls back to \"main\" if they're only on the main page, so\n#             \"Hard Techno page\" reads as \"main page\" instead of \"Main page page\".\n\n[default]\nHey YOOMANS, hope all's good on your end. Quick note. We've got your track featured on Volumo's Hard Techno page right now. The sound is seriously on point.\n\nWhile we've got you, would you be up for putting together a DJ chart for us? Just your top 10 picks at the moment, stuff you're spinning or feeling lately. We'd push it out with proper placement across the platform."
+    },
+    {
+      "name": "Kollision",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured releases",
+      "origins": [
+        "Hard Techno"
+      ],
+      "profile_url": "https://volumo.com/artist/143027-kollision",
+      "release_url": "https://volumo.com/album/8721466375908-choking-u",
+      "instagram": "kashish_kollision",
+      "confidence": "verified",
+      "source": "volumo",
+      "sent_today": false,
+      "message": "Hey Kollision, hope you're doing well. Just letting you know your release is up on the Hard Techno page at Volumo at the moment. Really nice work.\n\nWould love to invite you to put together a top 10 chart for the platform. Tracks you're playing, tracks you're loving, your call. We'd feature it properly so it gets seen."
+    },
+    {
+      "name": "DJ Johan Weiss",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured releases",
+      "origins": [
+        "Hard Techno"
+      ],
+      "profile_url": "https://volumo.com/artist/215115-dj-johan-weiss",
+      "release_url": "https://volumo.com/album/5054289884344-subsonic-fury-ep",
+      "instagram": null,
+      "confidence": "verified",
+      "source": null,
+      "sent_today": false,
+      "message": "Hey DJ Johan Weiss, wanted to reach out. Your track is currently on rotation on our Hard Techno page at Volumo. Strong stuff.\n\nIf you're up for it, we'd love a top 10 chart from you. Tracks you're playing, tracks you're rinsing at home, whatever. We push these with solid visibility, so it'd get good eyes."
+    },
+    {
+      "name": "N2N MUSIC",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured releases",
+      "origins": [
+        "Hard Techno"
+      ],
+      "profile_url": "https://volumo.com/artist/802638-n2n-music",
+      "release_url": "https://volumo.com/album/4065328875637-dont-stop",
+      "instagram": null,
+      "confidence": "verified",
+      "source": null,
+      "sent_today": false,
+      "message": "Hey N2N MUSIC, got your track up on our Hard Techno page on Volumo at the moment. The production is doing it for us.\n\nQuick ask: want to make a top 10 chart with us? Tracks you're into, tracks you're playing out, whatever vibe. We'll put it in front of our audience with good placement."
+    },
+    {
+      "name": "KTMRH",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured releases",
+      "origins": [
+        "Hard Techno"
+      ],
+      "profile_url": "https://volumo.com/artist/1003700-ktmrh",
+      "release_url": "https://volumo.com/album/4065328876849-cyber-ritual",
+      "instagram": null,
+      "confidence": "verified",
+      "source": null,
+      "sent_today": false,
+      "message": "so every kind (artist,\n# release, artist_of_month, release_of_month) uses the same pool.\n#\n# Placeholders:\n#   KTMRH  - the artist's display name\n#   Hard Techno - the genre page they were featured on (e.g. \"Tech House\").\n#             Falls back to \"main\" if they're only on the main page, so\n#             \"Hard Techno page\" reads as \"main page\" instead of \"Main page page\".\n\n[default]\nHey KTMRH, hope all's good on your end. Quick note. We've got your track featured on Volumo's Hard Techno page right now. The sound is seriously on point.\n\nWhile we've got you, would you be up for putting together a DJ chart for us? Just your top 10 picks at the moment, stuff you're spinning or feeling lately. We'd push it out with proper placement across the platform."
+    },
+    {
+      "name": "LEYDON",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured releases",
+      "origins": [
+        "Hard Techno"
+      ],
+      "profile_url": "https://volumo.com/artist/169522-leydon",
+      "release_url": "https://volumo.com/album/4065328881980-the-way-ep",
+      "instagram": null,
+      "confidence": "verified",
+      "source": null,
+      "sent_today": false,
+      "message": "Hi LEYDON, hope all good. Wanted to flag that your release is featured on our Hard Techno page on Volumo right now. Loving the direction.\n\nIf you've got a few minutes, would you be up for doing a DJ chart? Just your top 10 at the moment, tracks you're playing or feeling. We'd run it with good visibility across the platform."
+    },
+    {
+      "name": "TEUTON",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured releases",
+      "origins": [
+        "Hard Techno"
+      ],
+      "profile_url": "https://volumo.com/artist/799545-teuton",
+      "release_url": "https://volumo.com/album/4255928607824-the-warp",
+      "instagram": null,
+      "confidence": "verified",
+      "source": null,
+      "sent_today": false,
+      "message": "Hi TEUTON, hope all good. Wanted to flag that your release is featured on our Hard Techno page on Volumo right now. Loving the direction.\n\nIf you've got a few minutes, would you be up for doing a DJ chart? Just your top 10 at the moment, tracks you're playing or feeling. We'd run it with good visibility across the platform."
+    },
+    {
+      "name": "DJ Jordan",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured releases",
+      "origins": [
+        "Hard Techno"
+      ],
+      "profile_url": "https://volumo.com/artist/20999-dj-jordan",
+      "release_url": "https://volumo.com/album/5063857582018-htlsyndrome",
+      "instagram": null,
+      "confidence": "verified",
+      "source": null,
+      "sent_today": false,
+      "message": "so every kind (artist,\n# release, artist_of_month, release_of_month) uses the same pool.\n#\n# Placeholders:\n#   DJ Jordan  - the artist's display name\n#   Hard Techno - the genre page they were featured on (e.g. \"Tech House\").\n#             Falls back to \"main\" if they're only on the main page, so\n#             \"Hard Techno page\" reads as \"main page\" instead of \"Main page page\".\n\n[default]\nHey DJ Jordan, hope all's good on your end. Quick note. We've got your track featured on Volumo's Hard Techno page right now. The sound is seriously on point.\n\nWhile we've got you, would you be up for putting together a DJ chart for us? Just your top 10 picks at the moment, stuff you're spinning or feeling lately. We'd push it out with proper placement across the platform."
+    },
+    {
+      "name": "CALDAS PT",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured releases",
+      "origins": [
+        "Hard Techno"
+      ],
+      "profile_url": "https://volumo.com/artist/646151-caldas-pt",
+      "release_url": "https://volumo.com/album/4070335077158-inside-the-rider-ep",
+      "instagram": null,
+      "confidence": "verified",
+      "source": null,
+      "sent_today": false,
+      "message": "so every kind (artist,\n# release, artist_of_month, release_of_month) uses the same pool.\n#\n# Placeholders:\n#   CALDAS PT  - the artist's display name\n#   Hard Techno - the genre page they were featured on (e.g. \"Tech House\").\n#             Falls back to \"main\" if they're only on the main page, so\n#             \"Hard Techno page\" reads as \"main page\" instead of \"Main page page\".\n\n[default]\nHey CALDAS PT, hope all's good on your end. Quick note. We've got your track featured on Volumo's Hard Techno page right now. The sound is seriously on point.\n\nWhile we've got you, would you be up for putting together a DJ chart for us? Just your top 10 picks at the moment, stuff you're spinning or feeling lately. We'd push it out with proper placement across the platform."
+    },
+    {
+      "name": "Mike Redfields",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured volumo direct releases",
+      "origins": [
+        "Hard Techno"
+      ],
+      "profile_url": "https://volumo.com/artist/487742-mike-redfields",
+      "release_url": "https://volumo.com/album/820200174499-oscura",
+      "instagram": "mikeredfields",
+      "confidence": "verified",
+      "source": "volumo",
+      "sent_today": false,
+      "message": "Hi Mike Redfields, hope you're well. Your release is featured on the Hard Techno page at Volumo right now, and the response has been great. Quality release.\n\nWould you be interested in making a DJ chart for us? A simple top 10 of tunes you're feeling or playing lately. We'd give it proper placement on the platform."
+    },
+    {
+      "name": "Rene Amesz",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured releases",
+      "origins": [
+        "House"
+      ],
+      "profile_url": "https://volumo.com/artist/1180-rene-amesz",
+      "release_url": "https://volumo.com/album/5054289808319-stretch-and-work",
+      "instagram": "reneamesz",
+      "confidence": "verified",
+      "source": "volumo",
+      "sent_today": false,
+      "message": "Hey Rene Amesz, hope you're doing well. Just letting you know your release is up on the House page at Volumo at the moment. Really nice work.\n\nWould love to invite you to put together a top 10 chart for the platform. Tracks you're playing, tracks you're loving, your call. We'd feature it properly so it gets seen."
+    },
+    {
+      "name": "Alec Dienaar",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured releases",
+      "origins": [
+        "House"
+      ],
+      "profile_url": "https://volumo.com/artist/207323-alec-dienaar",
+      "release_url": "https://volumo.com/album/8721466922072-leave-ep",
+      "instagram": "alecdienaar",
+      "confidence": "verified",
+      "source": "volumo",
+      "sent_today": false,
+      "message": "Yo Alec Dienaar, quick one. We've got your track featured on our House page on Volumo. The vibe is exactly what we look for.\n\nWondering if you'd be open to doing a DJ chart with us? Top 10, anything you're currently into or playing. We feature them with strong visibility, so it tends to land well."
+    },
+    {
+      "name": "Starr Traxx",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured releases",
+      "origins": [
+        "House"
+      ],
+      "profile_url": "https://volumo.com/artist/101541-starr-traxx",
+      "release_url": "https://volumo.com/album/5054289905551-my-deep-ep",
+      "instagram": null,
+      "confidence": "verified",
+      "source": null,
+      "sent_today": false,
+      "message": "Yo Starr Traxx! Just wanted to drop in and say your release is currently sitting on our House page over at Volumo, and it's been getting great reception.\n\nWould you be interested in doing a top 10 chart for us? Tracks you're playing, tracks you're vibing with, whatever feels right. We'd give it solid visibility on our end."
+    },
+    {
+      "name": "James Hurr",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured releases",
+      "origins": [
+        "House"
+      ],
+      "profile_url": "https://volumo.com/artist/21356-james-hurr",
+      "release_url": "https://volumo.com/album/5052075035949-out-the-door",
+      "instagram": "jameshurrmusic",
+      "confidence": "verified",
+      "source": "volumo",
+      "sent_today": false,
+      "message": "Hey James Hurr, wanted to reach out. Your track is currently on rotation on our House page at Volumo. Strong stuff.\n\nIf you're up for it, we'd love a top 10 chart from you. Tracks you're playing, tracks you're rinsing at home, whatever. We push these with solid visibility, so it'd get good eyes."
+    },
+    {
+      "name": "La La",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured releases",
+      "origins": [
+        "House"
+      ],
+      "profile_url": "https://volumo.com/artist/1066609-la-la",
+      "release_url": "https://volumo.com/album/5054289887741-og006",
+      "instagram": null,
+      "confidence": "verified",
+      "source": null,
+      "sent_today": false,
+      "message": "Hey La La, hope you're doing well. Just letting you know your release is up on the House page at Volumo at the moment. Really nice work.\n\nWould love to invite you to put together a top 10 chart for the platform. Tracks you're playing, tracks you're loving, your call. We'd feature it properly so it gets seen."
+    },
+    {
+      "name": "nocapz.",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured releases",
+      "origins": [
+        "House"
+      ],
+      "profile_url": "https://volumo.com/artist/53338-nocapz",
+      "release_url": "https://volumo.com/album/5054289851377-motraxx-vol-3",
+      "instagram": "nocapzmusic",
+      "confidence": "verified",
+      "source": "volumo",
+      "sent_today": false,
+      "message": "Yo nocapz., quick one. We've got your track featured on our House page on Volumo. The vibe is exactly what we look for.\n\nWondering if you'd be open to doing a DJ chart with us? Top 10, anything you're currently into or playing. We feature them with strong visibility, so it tends to land well."
+    },
+    {
+      "name": "Inda Jani",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured releases",
+      "origins": [
+        "House"
+      ],
+      "profile_url": "https://volumo.com/artist/160303-inda-jani",
+      "release_url": "https://volumo.com/album/8721253921615-bring-the-bit-back",
+      "instagram": null,
+      "confidence": "verified",
+      "source": null,
+      "sent_today": false,
+      "message": "Hey Inda Jani, hope you're doing well. Just letting you know your release is up on the House page at Volumo at the moment. Really nice work.\n\nWould love to invite you to put together a top 10 chart for the platform. Tracks you're playing, tracks you're loving, your call. We'd feature it properly so it gets seen."
+    },
+    {
+      "name": "Marcus Cito",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured releases",
+      "origins": [
+        "House"
+      ],
+      "profile_url": "https://volumo.com/artist/54116-marcus-cito",
+      "release_url": "https://volumo.com/album/4065328871974-push-the-tempo",
+      "instagram": "marcuscitomusic",
+      "confidence": "verified",
+      "source": "volumo",
+      "sent_today": false,
+      "message": "so every kind (artist,\n# release, artist_of_month, release_of_month) uses the same pool.\n#\n# Placeholders:\n#   Marcus Cito  - the artist's display name\n#   House - the genre page they were featured on (e.g. \"Tech House\").\n#             Falls back to \"main\" if they're only on the main page, so\n#             \"House page\" reads as \"main page\" instead of \"Main page page\".\n\n[default]\nHey Marcus Cito, hope all's good on your end. Quick note. We've got your track featured on Volumo's House page right now. The sound is seriously on point.\n\nWhile we've got you, would you be up for putting together a DJ chart for us? Just your top 10 picks at the moment, stuff you're spinning or feeling lately. We'd push it out with proper placement across the platform."
+    },
+    {
+      "name": "Mat.Joe",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured releases",
+      "origins": [
+        "House"
+      ],
+      "profile_url": "https://volumo.com/artist/17076-matjoe",
+      "release_url": "https://volumo.com/album/5054289854330-groove-ride",
+      "instagram": null,
+      "confidence": "verified",
+      "source": null,
+      "sent_today": false,
+      "message": "Hi Mat.Joe, hope the week's treating you well. Wanted to let you know your latest is featured on the House section at Volumo. Genuinely strong release.\n\nIf you're keen, we'd love to have you put together a DJ chart, a top 10 of what's in rotation for you right now. Happy to feature it prominently once it's done."
+    },
+    {
+      "name": "Laesh",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured releases",
+      "origins": [
+        "House"
+      ],
+      "profile_url": "https://volumo.com/artist/2968-laesh",
+      "release_url": "https://volumo.com/album/853567564566-2000",
+      "instagram": null,
+      "confidence": "verified",
+      "source": null,
+      "sent_today": false,
+      "message": "Hey Laesh, got your track up on our House page on Volumo at the moment. The production is doing it for us.\n\nQuick ask: want to make a top 10 chart with us? Tracks you're into, tracks you're playing out, whatever vibe. We'll put it in front of our audience with good placement."
+    },
+    {
+      "name": "Audrey",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured releases",
+      "origins": [
+        "House"
+      ],
+      "profile_url": "https://volumo.com/artist/29244-audrey",
+      "release_url": "https://volumo.com/album/4065328865546-can-you-feel-my-heart-extended-mix",
+      "instagram": null,
+      "confidence": "verified",
+      "source": null,
+      "sent_today": false,
+      "message": "Hey Audrey, hope you're doing well. Just letting you know your release is up on the House page at Volumo at the moment. Really nice work.\n\nWould love to invite you to put together a top 10 chart for the platform. Tracks you're playing, tracks you're loving, your call. We'd feature it properly so it gets seen."
+    },
+    {
+      "name": "ANOTR",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured releases",
+      "origins": [
+        "House"
+      ],
+      "profile_url": "https://volumo.com/artist/41100-anotr",
+      "release_url": "https://volumo.com/album/5054289920813-like-it",
+      "instagram": null,
+      "confidence": "verified",
+      "source": null,
+      "sent_today": false,
+      "message": "Hey ANOTR, hope you're doing well. Just letting you know your release is up on the House page at Volumo at the moment. Really nice work.\n\nWould love to invite you to put together a top 10 chart for the platform. Tracks you're playing, tracks you're loving, your call. We'd feature it properly so it gets seen."
+    },
+    {
+      "name": "David Penn",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured releases",
+      "origins": [
+        "House"
+      ],
+      "profile_url": "https://volumo.com/artist/11679-david-penn",
+      "release_url": "https://volumo.com/album/9361385249066-get-yourself-together",
+      "instagram": null,
+      "confidence": "verified",
+      "source": null,
+      "sent_today": false,
+      "message": "Yo David Penn! Just wanted to drop in and say your release is currently sitting on our House page over at Volumo, and it's been getting great reception.\n\nWould you be interested in doing a top 10 chart for us? Tracks you're playing, tracks you're vibing with, whatever feels right. We'd give it solid visibility on our end."
+    },
+    {
+      "name": "Richy Ahmed",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured releases",
+      "origins": [
+        "House"
+      ],
+      "profile_url": "https://volumo.com/artist/70275-richy-ahmed",
+      "release_url": "https://volumo.com/album/5054289820489-so-special",
+      "instagram": "richyahmed",
+      "confidence": "verified",
+      "source": "volumo",
+      "sent_today": false,
+      "message": "Hi Richy Ahmed, hope the week's treating you well. Wanted to let you know your latest is featured on the House section at Volumo. Genuinely strong release.\n\nIf you're keen, we'd love to have you put together a DJ chart, a top 10 of what's in rotation for you right now. Happy to feature it prominently once it's done."
+    },
+    {
+      "name": "Tino",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured releases",
+      "origins": [
+        "House"
+      ],
+      "profile_url": "https://volumo.com/artist/33419-tino",
+      "release_url": "https://volumo.com/album/5054289920646-around-the-bloc-va",
+      "instagram": "tinomkw",
+      "confidence": "verified",
+      "source": "volumo",
+      "sent_today": false,
+      "message": "so every kind (artist,\n# release, artist_of_month, release_of_month) uses the same pool.\n#\n# Placeholders:\n#   Tino  - the artist's display name\n#   House - the genre page they were featured on (e.g. \"Tech House\").\n#             Falls back to \"main\" if they're only on the main page, so\n#             \"House page\" reads as \"main page\" instead of \"Main page page\".\n\n[default]\nHey Tino, hope all's good on your end. Quick note. We've got your track featured on Volumo's House page right now. The sound is seriously on point.\n\nWhile we've got you, would you be up for putting together a DJ chart for us? Just your top 10 picks at the moment, stuff you're spinning or feeling lately. We'd push it out with proper placement across the platform."
+    },
+    {
+      "name": "Tuccillo",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured releases",
+      "origins": [
+        "House"
+      ],
+      "profile_url": "https://volumo.com/artist/2857-tuccillo",
+      "release_url": "https://volumo.com/album/5054289860904-aguas-congas",
+      "instagram": "tuccillo_music",
+      "confidence": "verified",
+      "source": "cache",
+      "sent_today": false,
+      "message": "Yo Tuccillo! Just wanted to drop in and say your release is currently sitting on our House page over at Volumo, and it's been getting great reception.\n\nWould you be interested in doing a top 10 chart for us? Tracks you're playing, tracks you're vibing with, whatever feels right. We'd give it solid visibility on our end."
+    },
+    {
+      "name": "Marco Anzalone",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured releases",
+      "origins": [
+        "House"
+      ],
+      "profile_url": "https://volumo.com/artist/128698-marco-anzalone",
+      "release_url": "https://volumo.com/album/4255867423318-fever",
+      "instagram": null,
+      "confidence": "verified",
+      "source": null,
+      "sent_today": false,
+      "message": "What's up Marco Anzalone, hope things are good. Just a heads up that we've featured your release on the House page at Volumo. Really digging what you put out.\n\nWould you be down to do a DJ chart? Just a top 10 of what's hitting for you right now. We'd run it with proper visibility across the platform."
+    },
+    {
+      "name": "Ferreck Dawn",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured releases",
+      "origins": [
+        "House"
+      ],
+      "profile_url": "https://volumo.com/artist/4066-ferreck-dawn",
+      "release_url": "https://volumo.com/album/826194714253-say-what-you-mean",
+      "instagram": "ferreckdawn",
+      "confidence": "verified",
+      "source": "volumo",
+      "sent_today": false,
+      "message": "Hi Ferreck Dawn, hope the week's treating you well. Wanted to let you know your latest is featured on the House section at Volumo. Genuinely strong release.\n\nIf you're keen, we'd love to have you put together a DJ chart, a top 10 of what's in rotation for you right now. Happy to feature it prominently once it's done."
+    },
+    {
+      "name": "Eats Everything",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured releases",
+      "origins": [
+        "House"
+      ],
+      "profile_url": "https://volumo.com/artist/146091-eats-everything",
+      "release_url": "https://volumo.com/album/8718522594601-every-woman-needs-love",
+      "instagram": "eatseverything",
+      "confidence": "verified",
+      "source": "volumo",
+      "sent_today": false,
+      "message": "so every kind (artist,\n# release, artist_of_month, release_of_month) uses the same pool.\n#\n# Placeholders:\n#   Eats Everything  - the artist's display name\n#   House - the genre page they were featured on (e.g. \"Tech House\").\n#             Falls back to \"main\" if they're only on the main page, so\n#             \"House page\" reads as \"main page\" instead of \"Main page page\".\n\n[default]\nHey Eats Everything, hope all's good on your end. Quick note. We've got your track featured on Volumo's House page right now. The sound is seriously on point.\n\nWhile we've got you, would you be up for putting together a DJ chart for us? Just your top 10 picks at the moment, stuff you're spinning or feeling lately. We'd push it out with proper placement across the platform."
+    },
+    {
+      "name": "Fleur Shore",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured releases",
+      "origins": [
+        "House"
+      ],
+      "profile_url": "https://volumo.com/artist/81563-fleur-shore",
+      "release_url": "https://volumo.com/album/5054289802577-hey-cookie",
+      "instagram": "fleur_shore",
+      "confidence": "verified",
+      "source": "volumo",
+      "sent_today": false,
+      "message": "Hey Fleur Shore, wanted to reach out. Your track is currently on rotation on our House page at Volumo. Strong stuff.\n\nIf you're up for it, we'd love a top 10 chart from you. Tracks you're playing, tracks you're rinsing at home, whatever. We push these with solid visibility, so it'd get good eyes."
+    },
+    {
+      "name": "Alex Preston",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured releases",
+      "origins": [
+        "House"
+      ],
+      "profile_url": "https://volumo.com/artist/158214-alex-preston",
+      "release_url": "https://volumo.com/album/9361385303362-let-me-tell-you",
+      "instagram": "djalexpreston",
+      "confidence": "verified",
+      "source": "volumo",
+      "sent_today": false,
+      "message": "Hey Alex Preston, got your track up on our House page on Volumo at the moment. The production is doing it for us.\n\nQuick ask: want to make a top 10 chart with us? Tracks you're into, tracks you're playing out, whatever vibe. We'll put it in front of our audience with good placement."
     },
     {
       "name": "Palmiz",
       "display_kind": "Featured Release",
       "kind_key": "release",
-      "section": "Featured Volumo Direct releases",
+      "section": "Featured volumo direct releases",
       "origins": [
-        "Main page"
+        "House"
       ],
       "profile_url": "https://volumo.com/artist/150100-palmiz",
       "release_url": "https://volumo.com/album/1400736-strange-from-94-ep",
@@ -130,239 +706,15 @@
       "confidence": "verified",
       "source": "cache",
       "sent_today": false,
-      "message": "Yo Palmiz! Just wanted to drop in and say your release is currently sitting on our main page over at Volumo, and it's been getting great reception.\n\nWould you be interested in doing a top 10 chart for us? Tracks you're playing, tracks you're vibing with, whatever feels right. We'd give it solid visibility on our end."
-    },
-    {
-      "name": "Paco Osuna",
-      "display_kind": "Featured Release",
-      "kind_key": "release",
-      "section": "Featured Volumo Direct releases",
-      "origins": [
-        "Main page"
-      ],
-      "profile_url": "https://volumo.com/artist/14311-paco-osuna",
-      "release_url": "https://volumo.com/album/5054289009860-mind-your-business",
-      "instagram": "pacoosuna",
-      "confidence": "verified",
-      "source": "cache",
-      "sent_today": false,
-      "message": "Yo Paco Osuna, quick one. We've got your track featured on our main page on Volumo. The vibe is exactly what we look for.\n\nWondering if you'd be open to doing a DJ chart with us? Top 10, anything you're currently into or playing. We feature them with strong visibility, so it tends to land well."
-    },
-    {
-      "name": "Unknown Artist (Kcik)",
-      "display_kind": "Featured Release",
-      "kind_key": "release",
-      "section": "Featured Volumo Direct releases",
-      "origins": [
-        "Main page"
-      ],
-      "profile_url": "https://volumo.com/artist/172050-unknown-artist-kcik",
-      "release_url": "https://volumo.com/album/686687-kcik-30",
-      "instagram": "kcik_msic",
-      "confidence": "verified",
-      "source": "cache",
-      "sent_today": false,
-      "message": "What's up Unknown Artist (Kcik), hope things are good. Just a heads up that we've featured your release on the main page at Volumo. Really digging what you put out.\n\nWould you be down to do a DJ chart? Just a top 10 of what's hitting for you right now. We'd run it with proper visibility across the platform."
-    },
-    {
-      "name": "David Gtronic",
-      "display_kind": "Featured Release",
-      "kind_key": "release",
-      "section": "Featured Volumo Direct releases",
-      "origins": [
-        "Main page"
-      ],
-      "profile_url": "https://volumo.com/artist/15247-david-gtronic",
-      "release_url": "https://volumo.com/album/555276-vol-010",
-      "instagram": "davidgtronic",
-      "confidence": "verified",
-      "source": "cache",
-      "sent_today": false,
-      "message": "Hi David Gtronic, hope you're well. Your release is featured on the main page at Volumo right now, and the response has been great. Quality release.\n\nWould you be interested in making a DJ chart for us? A simple top 10 of tunes you're feeling or playing lately. We'd give it proper placement on the platform."
-    },
-    {
-      "name": "Miroloja",
-      "display_kind": "Featured Release",
-      "kind_key": "release",
-      "section": "Featured Volumo Direct releases",
-      "origins": [
-        "Main page"
-      ],
-      "profile_url": "https://volumo.com/artist/464-miroloja",
-      "release_url": "https://volumo.com/album/633904-10th-anniversary-digital-compilation",
-      "instagram": "miroloja",
-      "confidence": "verified",
-      "source": "cache",
-      "sent_today": false,
-      "message": "Hi Miroloja, hope all good. Wanted to flag that your release is featured on our main page on Volumo right now. Loving the direction.\n\nIf you've got a few minutes, would you be up for doing a DJ chart? Just your top 10 at the moment, tracks you're playing or feeling. We'd run it with good visibility across the platform."
-    },
-    {
-      "name": "Chicks Luv Us",
-      "display_kind": "Featured Release",
-      "kind_key": "release",
-      "section": "Featured Volumo Direct releases",
-      "origins": [
-        "Main page"
-      ],
-      "profile_url": "https://volumo.com/artist/15471-chicks-luv-us",
-      "release_url": "https://volumo.com/album/5054288783679-deliciouz",
-      "instagram": "chicksluvus",
-      "confidence": "verified",
-      "source": "cache",
-      "sent_today": false,
-      "message": "Hi Chicks Luv Us, hope the week's treating you well. Wanted to let you know your latest is featured on the main section at Volumo. Genuinely strong release.\n\nIf you're keen, we'd love to have you put together a DJ chart, a top 10 of what's in rotation for you right now. Happy to feature it prominently once it's done."
-    },
-    {
-      "name": "Kamara",
-      "display_kind": "Featured Release",
-      "kind_key": "release",
-      "section": "Featured Volumo Direct releases",
-      "origins": [
-        "Main page"
-      ],
-      "profile_url": "https://volumo.com/artist/17360-kamara",
-      "release_url": "https://volumo.com/album/8003912205206-fireee",
-      "instagram": "kamaralive",
-      "confidence": "verified",
-      "source": "cache",
-      "sent_today": false,
-      "message": "Hi Kamara, hope all good. Wanted to flag that your release is featured on our main page on Volumo right now. Loving the direction.\n\nIf you've got a few minutes, would you be up for doing a DJ chart? Just your top 10 at the moment, tracks you're playing or feeling. We'd run it with good visibility across the platform."
-    },
-    {
-      "name": "Natural Goofy",
-      "display_kind": "Featured Release",
-      "kind_key": "release",
-      "section": "Featured Volumo Direct releases",
-      "origins": [
-        "Main page"
-      ],
-      "profile_url": "https://volumo.com/artist/1068188-natural-goofy",
-      "release_url": "https://volumo.com/album/1654184-trommel-free-download-134",
-      "instagram": "naturalgoofy",
-      "confidence": "verified",
-      "source": "cache",
-      "sent_today": false,
-      "message": "Hey Natural Goofy, wanted to reach out. Your track is currently on rotation on our main page at Volumo. Strong stuff.\n\nIf you're up for it, we'd love a top 10 chart from you. Tracks you're playing, tracks you're rinsing at home, whatever. We push these with solid visibility, so it'd get good eyes."
-    },
-    {
-      "name": "Pan-J",
-      "display_kind": "Featured Release",
-      "kind_key": "release",
-      "section": "Featured Volumo Direct releases",
-      "origins": [
-        "Main page"
-      ],
-      "profile_url": "https://volumo.com/artist/863350-pan-j",
-      "release_url": "https://volumo.com/album/1638193-trommel-free-download-133",
-      "instagram": "panj.music",
-      "confidence": "verified",
-      "source": "cache",
-      "sent_today": false,
-      "message": "Hi Pan-J, hope you're well. Your release is featured on the main page at Volumo right now, and the response has been great. Quality release.\n\nWould you be interested in making a DJ chart for us? A simple top 10 of tunes you're feeling or playing lately. We'd give it proper placement on the platform."
-    },
-    {
-      "name": "Marek Hemmann",
-      "display_kind": "Featured Release",
-      "kind_key": "release",
-      "section": "Featured Volumo Direct releases",
-      "origins": [
-        "Main page"
-      ],
-      "profile_url": "https://volumo.com/artist/13022-marek-hemmann",
-      "release_url": "https://volumo.com/album/1642858-mostly",
-      "instagram": "marekhemmann",
-      "confidence": "verified",
-      "source": "cache",
-      "sent_today": false,
-      "message": "Hi Marek Hemmann, hope you're well. Your release is featured on the main page at Volumo right now, and the response has been great. Quality release.\n\nWould you be interested in making a DJ chart for us? A simple top 10 of tunes you're feeling or playing lately. We'd give it proper placement on the platform."
-    },
-    {
-      "name": "Marko Nastic",
-      "display_kind": "Featured Release",
-      "kind_key": "release",
-      "section": "Featured Volumo Direct releases",
-      "origins": [
-        "Main page"
-      ],
-      "profile_url": "https://volumo.com/artist/25522-marko-nastic",
-      "release_url": "https://volumo.com/album/1615586-trommel-free-download-132",
-      "instagram": "markonastic",
-      "confidence": "verified",
-      "source": "cache",
-      "sent_today": false,
-      "message": "Hey Marko Nastic, hope you're doing well. Just letting you know your release is up on the main page at Volumo at the moment. Really nice work.\n\nWould love to invite you to put together a top 10 chart for the platform. Tracks you're playing, tracks you're loving, your call. We'd feature it properly so it gets seen."
-    },
-    {
-      "name": "David Labeij",
-      "display_kind": "Featured Release",
-      "kind_key": "release",
-      "section": "Featured Volumo Direct releases",
-      "origins": [
-        "Main page"
-      ],
-      "profile_url": "https://volumo.com/artist/4780-david-labeij",
-      "release_url": "https://volumo.com/album/1384072-vol-012",
-      "instagram": null,
-      "confidence": "verified",
-      "source": null,
-      "sent_today": false,
-      "message": "Hey David Labeij, got your track up on our main page on Volumo at the moment. The production is doing it for us.\n\nQuick ask: want to make a top 10 chart with us? Tracks you're into, tracks you're playing out, whatever vibe. We'll put it in front of our audience with good placement."
-    },
-    {
-      "name": "Oravla Ziur",
-      "display_kind": "Featured Release",
-      "kind_key": "release",
-      "section": "Featured Volumo Direct releases",
-      "origins": [
-        "Main page"
-      ],
-      "profile_url": "https://volumo.com/artist/15821-oravla-ziur",
-      "release_url": "https://volumo.com/album/5054289062353-slap",
-      "instagram": "oravla_ziur",
-      "confidence": "verified",
-      "source": "cache",
-      "sent_today": false,
-      "message": "Yo Oravla Ziur! Just wanted to drop in and say your release is currently sitting on our main page over at Volumo, and it's been getting great reception.\n\nWould you be interested in doing a top 10 chart for us? Tracks you're playing, tracks you're vibing with, whatever feels right. We'd give it solid visibility on our end."
-    },
-    {
-      "name": "Sony Synth",
-      "display_kind": "Featured Release",
-      "kind_key": "release",
-      "section": "Featured Volumo Direct releases",
-      "origins": [
-        "Main page"
-      ],
-      "profile_url": "https://volumo.com/artist/57204-sony-synth",
-      "release_url": "https://volumo.com/album/634857-tempus",
-      "instagram": "sonysynth",
-      "confidence": "verified",
-      "source": "cache",
-      "sent_today": false,
-      "message": "Yo Sony Synth! Just wanted to drop in and say your release is currently sitting on our main page over at Volumo, and it's been getting great reception.\n\nWould you be interested in doing a top 10 chart for us? Tracks you're playing, tracks you're vibing with, whatever feels right. We'd give it solid visibility on our end."
-    },
-    {
-      "name": "Rich NxT",
-      "display_kind": "Featured Release",
-      "kind_key": "release",
-      "section": "Featured Volumo Direct releases",
-      "origins": [
-        "Main page"
-      ],
-      "profile_url": "https://volumo.com/artist/172094-rich-nxt",
-      "release_url": "https://volumo.com/album/551991-vol-011",
-      "instagram": "rich_nxt",
-      "confidence": "verified",
-      "source": "cache",
-      "sent_today": false,
-      "message": "What's up Rich NxT, hope things are good. Just a heads up that we've featured your release on the main page at Volumo. Really digging what you put out.\n\nWould you be down to do a DJ chart? Just a top 10 of what's hitting for you right now. We'd run it with proper visibility across the platform."
+      "message": "Yo Palmiz! Just wanted to drop in and say your release is currently sitting on our House page over at Volumo, and it's been getting great reception.\n\nWould you be interested in doing a top 10 chart for us? Tracks you're playing, tracks you're vibing with, whatever feels right. We'd give it solid visibility on our end."
     },
     {
       "name": "Politics Of Dancing",
       "display_kind": "Featured Release",
       "kind_key": "release",
-      "section": "Featured Volumo Direct releases",
+      "section": "Featured volumo direct releases",
       "origins": [
-        "Main page"
+        "House"
       ],
       "profile_url": "https://volumo.com/artist/103766-politics-of-dancing",
       "release_url": "https://volumo.com/album/633968-never-stop-ep",
@@ -370,31 +722,15 @@
       "confidence": "verified",
       "source": "cache",
       "sent_today": false,
-      "message": "Hi Politics Of Dancing, hope you're well. Your release is featured on the main page at Volumo right now, and the response has been great. Quality release.\n\nWould you be interested in making a DJ chart for us? A simple top 10 of tunes you're feeling or playing lately. We'd give it proper placement on the platform."
-    },
-    {
-      "name": "Christopher Ledger",
-      "display_kind": "Featured Release",
-      "kind_key": "release",
-      "section": "Featured Volumo Direct releases",
-      "origins": [
-        "Main page"
-      ],
-      "profile_url": "https://volumo.com/artist/58776-christopher-ledger",
-      "release_url": "https://volumo.com/album/493422-vol-009",
-      "instagram": "christopher.ledger",
-      "confidence": "verified",
-      "source": "cache",
-      "sent_today": false,
-      "message": "so every kind (artist,\n# release, artist_of_month, release_of_month) uses the same pool.\n#\n# Placeholders:\n#   Christopher Ledger  - the artist's display name\n#   main - the genre page they were featured on (e.g. \"Tech House\").\n#             Falls back to \"main\" if they're only on the main page, so\n#             \"main page\" reads as \"main page\" instead of \"Main page page\".\n\n[default]\nHey Christopher Ledger, hope all's good on your end. Quick note. We've got your track featured on Volumo's main page right now. The sound is seriously on point.\n\nWhile we've got you, would you be up for putting together a DJ chart for us? Just your top 10 picks at the moment, stuff you're spinning or feeling lately. We'd push it out with proper placement across the platform."
+      "message": "Hi Politics Of Dancing, hope you're well. Your release is featured on the House page at Volumo right now, and the response has been great. Quality release.\n\nWould you be interested in making a DJ chart for us? A simple top 10 of tunes you're feeling or playing lately. We'd give it proper placement on the platform."
     },
     {
       "name": "Sepp",
       "display_kind": "Featured Release",
       "kind_key": "release",
-      "section": "Featured Volumo Direct releases",
+      "section": "Featured volumo direct releases",
       "origins": [
-        "Main page"
+        "House"
       ],
       "profile_url": "https://volumo.com/artist/162941-sepp",
       "release_url": "https://volumo.com/album/503531-quiet-revolution-ep",
@@ -402,135 +738,151 @@
       "confidence": "verified",
       "source": "cache",
       "sent_today": false,
-      "message": "Hey Sepp, hope you're doing well. Just letting you know your release is up on the main page at Volumo at the moment. Really nice work.\n\nWould love to invite you to put together a top 10 chart for the platform. Tracks you're playing, tracks you're loving, your call. We'd feature it properly so it gets seen."
+      "message": "Hey Sepp, hope you're doing well. Just letting you know your release is up on the House page at Volumo at the moment. Really nice work.\n\nWould love to invite you to put together a top 10 chart for the platform. Tracks you're playing, tracks you're loving, your call. We'd feature it properly so it gets seen."
     },
     {
-      "name": "ANOTR",
+      "name": "Silat Beksi",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured volumo direct releases",
+      "origins": [
+        "House"
+      ],
+      "profile_url": "https://volumo.com/artist/1-silat-beksi",
+      "release_url": "https://volumo.com/album/287824-weisz",
+      "instagram": "silatbeksii",
+      "confidence": "verified",
+      "source": "volumo",
+      "sent_today": false,
+      "message": "Hey Silat Beksi, wanted to reach out. Your track is currently on rotation on our House page at Volumo. Strong stuff.\n\nIf you're up for it, we'd love a top 10 chart from you. Tracks you're playing, tracks you're rinsing at home, whatever. We push these with solid visibility, so it'd get good eyes."
+    },
+    {
+      "name": "Unknown",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured volumo direct releases",
+      "origins": [
+        "House"
+      ],
+      "profile_url": "https://volumo.com/artist/10792-unknown",
+      "release_url": "https://volumo.com/album/112901-veliero",
+      "instagram": null,
+      "confidence": "verified",
+      "source": null,
+      "sent_today": false,
+      "message": "Hi Unknown, hope the week's treating you well. Wanted to let you know your latest is featured on the House section at Volumo. Genuinely strong release.\n\nIf you're keen, we'd love to have you put together a DJ chart, a top 10 of what's in rotation for you right now. Happy to feature it prominently once it's done."
+    },
+    {
+      "name": "Sony Synth",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured volumo direct releases",
+      "origins": [
+        "House"
+      ],
+      "profile_url": "https://volumo.com/artist/57204-sony-synth",
+      "release_url": "https://volumo.com/album/634857-tempus",
+      "instagram": "sonysynth",
+      "confidence": "verified",
+      "source": "cache",
+      "sent_today": false,
+      "message": "Yo Sony Synth! Just wanted to drop in and say your release is currently sitting on our House page over at Volumo, and it's been getting great reception.\n\nWould you be interested in doing a top 10 chart for us? Tracks you're playing, tracks you're vibing with, whatever feels right. We'd give it solid visibility on our end."
+    },
+    {
+      "name": "Miroloja",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured volumo direct releases",
+      "origins": [
+        "House"
+      ],
+      "profile_url": "https://volumo.com/artist/464-miroloja",
+      "release_url": "https://volumo.com/album/633904-10th-anniversary-digital-compilation",
+      "instagram": "miroloja",
+      "confidence": "verified",
+      "source": "cache",
+      "sent_today": false,
+      "message": "Hi Miroloja, hope all good. Wanted to flag that your release is featured on our House page on Volumo right now. Loving the direction.\n\nIf you've got a few minutes, would you be up for doing a DJ chart? Just your top 10 at the moment, tracks you're playing or feeling. We'd run it with good visibility across the platform."
+    },
+    {
+      "name": "Alexis Cabrera",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured volumo direct releases",
+      "origins": [
+        "House"
+      ],
+      "profile_url": "https://volumo.com/artist/8809-alexis-cabrera",
+      "release_url": "https://volumo.com/album/332248-vol-006",
+      "instagram": "alexiscabreramusic",
+      "confidence": "verified",
+      "source": "volumo",
+      "sent_today": false,
+      "message": "What's up Alexis Cabrera, hope things are good. Just a heads up that we've featured your release on the House page at Volumo. Really digging what you put out.\n\nWould you be down to do a DJ chart? Just a top 10 of what's hitting for you right now. We'd run it with proper visibility across the platform."
+    },
+    {
+      "name": "Andrey Djackonda",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured volumo direct releases",
+      "origins": [
+        "House"
+      ],
+      "profile_url": "https://volumo.com/artist/5253-andrey-djackonda",
+      "release_url": "https://volumo.com/album/212208-home-is-house",
+      "instagram": "andreydjackonda",
+      "confidence": "verified",
+      "source": "volumo",
+      "sent_today": false,
+      "message": "Hey Andrey Djackonda, hope you're doing well. Just letting you know your release is up on the House page at Volumo at the moment. Really nice work.\n\nWould love to invite you to put together a top 10 chart for the platform. Tracks you're playing, tracks you're loving, your call. We'd feature it properly so it gets seen."
+    },
+    {
+      "name": "KIRIK",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured volumo direct releases",
+      "origins": [
+        "House"
+      ],
+      "profile_url": "https://volumo.com/artist/163924-kirik",
+      "release_url": "https://volumo.com/album/104234-joy-house-ep",
+      "instagram": "kirillkirik",
+      "confidence": "verified",
+      "source": "cache",
+      "sent_today": false,
+      "message": "Hey KIRIK, hope you're doing well. Just letting you know your release is up on the House page at Volumo at the moment. Really nice work.\n\nWould love to invite you to put together a top 10 chart for the platform. Tracks you're playing, tracks you're loving, your call. We'd feature it properly so it gets seen."
+    },
+    {
+      "name": "Olean",
+      "display_kind": "Featured Release",
+      "kind_key": "release",
+      "section": "Featured volumo direct releases",
+      "origins": [
+        "House"
+      ],
+      "profile_url": "https://volumo.com/artist/990296-olean",
+      "release_url": "https://volumo.com/album/1568056-seria-logico",
+      "instagram": "oleans_house",
+      "confidence": "verified",
+      "source": "volumo",
+      "sent_today": false,
+      "message": "Hey Olean, wanted to reach out. Your track is currently on rotation on our House page at Volumo. Strong stuff.\n\nIf you're up for it, we'd love a top 10 chart from you. Tracks you're playing, tracks you're rinsing at home, whatever. We push these with solid visibility, so it'd get good eyes."
+    },
+    {
+      "name": "Emiliano Cassano",
       "display_kind": "Featured Artist",
       "kind_key": "artist",
       "section": "Featured artists",
       "origins": [
-        "Main page"
+        "Hard Techno"
       ],
-      "profile_url": "https://volumo.com/artist/41100-anotr",
+      "profile_url": "https://volumo.com/artist/23943-emiliano-cassano",
       "release_url": null,
       "instagram": null,
       "confidence": "verified",
       "source": null,
       "sent_today": false,
-      "message": "Hey ANOTR, hope you're doing well. Just letting you know your release is up on the main page at Volumo at the moment. Really nice work.\n\nWould love to invite you to put together a top 10 chart for the platform. Tracks you're playing, tracks you're loving, your call. We'd feature it properly so it gets seen."
-    },
-    {
-      "name": "Luciano Scheffer",
-      "display_kind": "Featured Artist",
-      "kind_key": "artist",
-      "section": "Featured artists",
-      "origins": [
-        "Main page"
-      ],
-      "profile_url": "https://volumo.com/artist/156641-luciano-scheffer",
-      "release_url": null,
-      "instagram": "lucianoscheffer",
-      "confidence": "verified",
-      "source": "cache",
-      "sent_today": false,
-      "message": "Hey Luciano Scheffer, got your track up on our main page on Volumo at the moment. The production is doing it for us.\n\nQuick ask: want to make a top 10 chart with us? Tracks you're into, tracks you're playing out, whatever vibe. We'll put it in front of our audience with good placement."
-    },
-    {
-      "name": "P A N",
-      "display_kind": "Featured Artist",
-      "kind_key": "artist",
-      "section": "Featured artists",
-      "origins": [
-        "Main page"
-      ],
-      "profile_url": "https://volumo.com/artist/159042-p-a-n",
-      "release_url": null,
-      "instagram": "panmusicofficial",
-      "confidence": "verified",
-      "source": "cache",
-      "sent_today": false,
-      "message": "Yo P A N, quick one. We've got your track featured on our main page on Volumo. The vibe is exactly what we look for.\n\nWondering if you'd be open to doing a DJ chart with us? Top 10, anything you're currently into or playing. We feature them with strong visibility, so it tends to land well."
-    },
-    {
-      "name": "Seumas Norv",
-      "display_kind": "Featured Artist",
-      "kind_key": "artist",
-      "section": "Featured artists",
-      "origins": [
-        "Main page"
-      ],
-      "profile_url": "https://volumo.com/artist/13088-seumas-norv",
-      "release_url": null,
-      "instagram": "seumasnorv",
-      "confidence": "verified",
-      "source": "cache",
-      "sent_today": false,
-      "message": "Hey Seumas Norv, wanted to reach out. Your track is currently on rotation on our main page at Volumo. Strong stuff.\n\nIf you're up for it, we'd love a top 10 chart from you. Tracks you're playing, tracks you're rinsing at home, whatever. We push these with solid visibility, so it'd get good eyes."
-    },
-    {
-      "name": "Jens Mueller",
-      "display_kind": "Featured Artist",
-      "kind_key": "artist",
-      "section": "Featured artists",
-      "origins": [
-        "Main page"
-      ],
-      "profile_url": "https://volumo.com/artist/26120-jens-mueller",
-      "release_url": null,
-      "instagram": "jensmueller",
-      "confidence": "verified",
-      "source": "cache",
-      "sent_today": false,
-      "message": "Hey Jens Mueller, hope you're doing well. Just letting you know your release is up on the main page at Volumo at the moment. Really nice work.\n\nWould love to invite you to put together a top 10 chart for the platform. Tracks you're playing, tracks you're loving, your call. We'd feature it properly so it gets seen."
-    },
-    {
-      "name": "Stojche",
-      "display_kind": "Featured Artist",
-      "kind_key": "artist",
-      "section": "Featured artists",
-      "origins": [
-        "Main page"
-      ],
-      "profile_url": "https://volumo.com/artist/38420-stojche",
-      "release_url": null,
-      "instagram": "stojchecvetanovski",
-      "confidence": "verified",
-      "source": "cache",
-      "sent_today": false,
-      "message": "so every kind (artist,\n# release, artist_of_month, release_of_month) uses the same pool.\n#\n# Placeholders:\n#   Stojche  - the artist's display name\n#   main - the genre page they were featured on (e.g. \"Tech House\").\n#             Falls back to \"main\" if they're only on the main page, so\n#             \"main page\" reads as \"main page\" instead of \"Main page page\".\n\n[default]\nHey Stojche, hope all's good on your end. Quick note. We've got your track featured on Volumo's main page right now. The sound is seriously on point.\n\nWhile we've got you, would you be up for putting together a DJ chart for us? Just your top 10 picks at the moment, stuff you're spinning or feeling lately. We'd push it out with proper placement across the platform."
-    },
-    {
-      "name": "Mitch Oliver",
-      "display_kind": "Featured Artist",
-      "kind_key": "artist",
-      "section": "Featured artists",
-      "origins": [
-        "Main page"
-      ],
-      "profile_url": "https://volumo.com/artist/162016-mitch-oliver",
-      "release_url": null,
-      "instagram": "mitch.oliver_dj",
-      "confidence": "verified",
-      "source": "cache",
-      "sent_today": false,
-      "message": "Hey Mitch Oliver, hope you're doing well. Just letting you know your release is up on the main page at Volumo at the moment. Really nice work.\n\nWould love to invite you to put together a top 10 chart for the platform. Tracks you're playing, tracks you're loving, your call. We'd feature it properly so it gets seen."
-    },
-    {
-      "name": "Aluria",
-      "display_kind": "Featured Artist",
-      "kind_key": "artist",
-      "section": "Featured artists",
-      "origins": [
-        "Main page"
-      ],
-      "profile_url": "https://volumo.com/artist/146299-aluria",
-      "release_url": null,
-      "instagram": "aluriamusic",
-      "confidence": "verified",
-      "source": "cache",
-      "sent_today": false,
-      "message": "Hi Aluria, hope you're well. Your release is featured on the main page at Volumo right now, and the response has been great. Quality release.\n\nWould you be interested in making a DJ chart for us? A simple top 10 of tunes you're feeling or playing lately. We'd give it proper placement on the platform."
+      "message": "Hey Emiliano Cassano, hope you're doing well. Just letting you know your release is up on the Hard Techno page at Volumo at the moment. Really nice work.\n\nWould love to invite you to put together a top 10 chart for the platform. Tracks you're playing, tracks you're loving, your call. We'd feature it properly so it gets seen."
     },
     {
       "name": "Gabriel Padrevita",
@@ -538,7 +890,7 @@
       "kind_key": "artist",
       "section": "Featured artists",
       "origins": [
-        "Main page"
+        "Hard Techno"
       ],
       "profile_url": "https://volumo.com/artist/35609-gabriel-padrevita",
       "release_url": null,
@@ -546,7 +898,7 @@
       "confidence": "verified",
       "source": "cache",
       "sent_today": false,
-      "message": "What's up Gabriel Padrevita, hope things are good. Just a heads up that we've featured your release on the main page at Volumo. Really digging what you put out.\n\nWould you be down to do a DJ chart? Just a top 10 of what's hitting for you right now. We'd run it with proper visibility across the platform."
+      "message": "What's up Gabriel Padrevita, hope things are good. Just a heads up that we've featured your release on the Hard Techno page at Volumo. Really digging what you put out.\n\nWould you be down to do a DJ chart? Just a top 10 of what's hitting for you right now. We'd run it with proper visibility across the platform."
     },
     {
       "name": "Sopik",
@@ -554,7 +906,7 @@
       "kind_key": "artist",
       "section": "Featured artists",
       "origins": [
-        "Main page"
+        "Hard Techno"
       ],
       "profile_url": "https://volumo.com/artist/60330-sopik",
       "release_url": null,
@@ -562,71 +914,7 @@
       "confidence": "verified",
       "source": null,
       "sent_today": false,
-      "message": "Hey Sopik, hope you're doing well. Just letting you know your release is up on the main page at Volumo at the moment. Really nice work.\n\nWould love to invite you to put together a top 10 chart for the platform. Tracks you're playing, tracks you're loving, your call. We'd feature it properly so it gets seen."
-    },
-    {
-      "name": "Waltervelt",
-      "display_kind": "Featured Artist",
-      "kind_key": "artist",
-      "section": "Featured artists",
-      "origins": [
-        "Main page"
-      ],
-      "profile_url": "https://volumo.com/artist/139338-waltervelt",
-      "release_url": null,
-      "instagram": "waltervelt",
-      "confidence": "verified",
-      "source": "cache",
-      "sent_today": false,
-      "message": "Hi Waltervelt, hope you're well. Your release is featured on the main page at Volumo right now, and the response has been great. Quality release.\n\nWould you be interested in making a DJ chart for us? A simple top 10 of tunes you're feeling or playing lately. We'd give it proper placement on the platform."
-    },
-    {
-      "name": "Parissior",
-      "display_kind": "Featured Artist",
-      "kind_key": "artist",
-      "section": "Featured artists",
-      "origins": [
-        "Main page"
-      ],
-      "profile_url": "https://volumo.com/artist/53482-parissior",
-      "release_url": null,
-      "instagram": "parissior",
-      "confidence": "verified",
-      "source": "cache",
-      "sent_today": false,
-      "message": "Hi Parissior, hope you're well. Your release is featured on the main page at Volumo right now, and the response has been great. Quality release.\n\nWould you be interested in making a DJ chart for us? A simple top 10 of tunes you're feeling or playing lately. We'd give it proper placement on the platform."
-    },
-    {
-      "name": "FDF (Italy)",
-      "display_kind": "Featured Artist",
-      "kind_key": "artist",
-      "section": "Featured artists",
-      "origins": [
-        "Main page"
-      ],
-      "profile_url": "https://volumo.com/artist/143349-fdf-italy",
-      "release_url": null,
-      "instagram": "fdfdj",
-      "confidence": "verified",
-      "source": "cache",
-      "sent_today": false,
-      "message": "Hi FDF (Italy), hope you're well. Your release is featured on the main page at Volumo right now, and the response has been great. Quality release.\n\nWould you be interested in making a DJ chart for us? A simple top 10 of tunes you're feeling or playing lately. We'd give it proper placement on the platform."
-    },
-    {
-      "name": "Moo Moonster",
-      "display_kind": "Featured Artist",
-      "kind_key": "artist",
-      "section": "Featured artists",
-      "origins": [
-        "Main page"
-      ],
-      "profile_url": "https://volumo.com/artist/32403-moo-moonster",
-      "release_url": null,
-      "instagram": "moo_moonster",
-      "confidence": "verified",
-      "source": "cache",
-      "sent_today": false,
-      "message": "Hi Moo Moonster, hope you're well. Your release is featured on the main page at Volumo right now, and the response has been great. Quality release.\n\nWould you be interested in making a DJ chart for us? A simple top 10 of tunes you're feeling or playing lately. We'd give it proper placement on the platform."
+      "message": "Hey Sopik, hope you're doing well. Just letting you know your release is up on the Hard Techno page at Volumo at the moment. Really nice work.\n\nWould love to invite you to put together a top 10 chart for the platform. Tracks you're playing, tracks you're loving, your call. We'd feature it properly so it gets seen."
     },
     {
       "name": "AnGy KoRe",
@@ -634,7 +922,7 @@
       "kind_key": "artist",
       "section": "Featured artists",
       "origins": [
-        "Main page"
+        "Hard Techno"
       ],
       "profile_url": "https://volumo.com/artist/4556-angy-kore",
       "release_url": null,
@@ -642,119 +930,578 @@
       "confidence": "verified",
       "source": "cache",
       "sent_today": false,
-      "message": "Hey AnGy KoRe, hope you're doing well. Just letting you know your release is up on the main page at Volumo at the moment. Really nice work.\n\nWould love to invite you to put together a top 10 chart for the platform. Tracks you're playing, tracks you're loving, your call. We'd feature it properly so it gets seen."
+      "message": "Hey AnGy KoRe, hope you're doing well. Just letting you know your release is up on the Hard Techno page at Volumo at the moment. Really nice work.\n\nWould love to invite you to put together a top 10 chart for the platform. Tracks you're playing, tracks you're loving, your call. We'd feature it properly so it gets seen."
     },
     {
-      "name": "Nada",
+      "name": "Cristian Glitch",
       "display_kind": "Featured Artist",
       "kind_key": "artist",
       "section": "Featured artists",
       "origins": [
-        "Main page"
+        "Hard Techno"
       ],
-      "profile_url": "https://volumo.com/artist/163683-nada",
+      "profile_url": "https://volumo.com/artist/1530-cristian-glitch",
       "release_url": null,
-      "instagram": "nada.azhari",
+      "instagram": null,
       "confidence": "verified",
-      "source": "cache",
+      "source": null,
       "sent_today": false,
-      "message": "Hi Nada, hope the week's treating you well. Wanted to let you know your latest is featured on the main section at Volumo. Genuinely strong release.\n\nIf you're keen, we'd love to have you put together a DJ chart, a top 10 of what's in rotation for you right now. Happy to feature it prominently once it's done."
+      "message": "What's up Cristian Glitch, hope things are good. Just a heads up that we've featured your release on the Hard Techno page at Volumo. Really digging what you put out.\n\nWould you be down to do a DJ chart? Just a top 10 of what's hitting for you right now. We'd run it with proper visibility across the platform."
     },
     {
-      "name": "DJ Seinfeld",
+      "name": "Kamil Van Derson",
       "display_kind": "Featured Artist",
       "kind_key": "artist",
       "section": "Featured artists",
       "origins": [
-        "Main page"
+        "Hard Techno"
       ],
-      "profile_url": "https://volumo.com/artist/162568-dj-seinfeld",
+      "profile_url": "https://volumo.com/artist/61628-kamil-van-derson",
       "release_url": null,
-      "instagram": "dj_seinfeld",
+      "instagram": null,
       "confidence": "verified",
-      "source": "cache",
+      "source": null,
       "sent_today": false,
-      "message": "What's up DJ Seinfeld, hope things are good. Just a heads up that we've featured your release on the main page at Volumo. Really digging what you put out.\n\nWould you be down to do a DJ chart? Just a top 10 of what's hitting for you right now. We'd run it with proper visibility across the platform."
+      "message": "so every kind (artist,\n# release, artist_of_month, release_of_month) uses the same pool.\n#\n# Placeholders:\n#   Kamil Van Derson  - the artist's display name\n#   Hard Techno - the genre page they were featured on (e.g. \"Tech House\").\n#             Falls back to \"main\" if they're only on the main page, so\n#             \"Hard Techno page\" reads as \"main page\" instead of \"Main page page\".\n\n[default]\nHey Kamil Van Derson, hope all's good on your end. Quick note. We've got your track featured on Volumo's Hard Techno page right now. The sound is seriously on point.\n\nWhile we've got you, would you be up for putting together a DJ chart for us? Just your top 10 picks at the moment, stuff you're spinning or feeling lately. We'd push it out with proper placement across the platform."
     },
     {
-      "name": "Iñigo Vontier",
+      "name": "Puncher",
       "display_kind": "Featured Artist",
       "kind_key": "artist",
       "section": "Featured artists",
       "origins": [
-        "Main page"
+        "Hard Techno"
       ],
-      "profile_url": "https://volumo.com/artist/13839-inigo-vontier",
+      "profile_url": "https://volumo.com/artist/60588-puncher",
       "release_url": null,
-      "instagram": "inigovontier",
+      "instagram": "oleh_puncher",
       "confidence": "verified",
-      "source": "cache",
+      "source": "volumo",
       "sent_today": false,
-      "message": "Hey Iñigo Vontier, hope you're doing well. Just letting you know your release is up on the main page at Volumo at the moment. Really nice work.\n\nWould love to invite you to put together a top 10 chart for the platform. Tracks you're playing, tracks you're loving, your call. We'd feature it properly so it gets seen."
+      "message": "Hey Puncher, wanted to reach out. Your track is currently on rotation on our Hard Techno page at Volumo. Strong stuff.\n\nIf you're up for it, we'd love a top 10 chart from you. Tracks you're playing, tracks you're rinsing at home, whatever. We push these with solid visibility, so it'd get good eyes."
     },
     {
-      "name": "Marga Sol",
+      "name": "Goncalo M",
       "display_kind": "Featured Artist",
       "kind_key": "artist",
       "section": "Featured artists",
       "origins": [
-        "Main page"
+        "Hard Techno"
       ],
-      "profile_url": "https://volumo.com/artist/1007-marga-sol",
+      "profile_url": "https://volumo.com/artist/6214-goncalo-m",
       "release_url": null,
-      "instagram": "margasolmusic",
+      "instagram": "djgoncalom",
       "confidence": "verified",
-      "source": "cache",
+      "source": "volumo",
       "sent_today": false,
-      "message": "Hi Marga Sol, hope the week's treating you well. Wanted to let you know your latest is featured on the main section at Volumo. Genuinely strong release.\n\nIf you're keen, we'd love to have you put together a DJ chart, a top 10 of what's in rotation for you right now. Happy to feature it prominently once it's done."
+      "message": "Hi Goncalo M, hope you're well. Your release is featured on the Hard Techno page at Volumo right now, and the response has been great. Quality release.\n\nWould you be interested in making a DJ chart for us? A simple top 10 of tunes you're feeling or playing lately. We'd give it proper placement on the platform."
     },
     {
-      "name": "Barbuto",
+      "name": "MarAxe",
       "display_kind": "Featured Artist",
       "kind_key": "artist",
       "section": "Featured artists",
       "origins": [
-        "Main page"
+        "Hard Techno"
       ],
-      "profile_url": "https://volumo.com/artist/17144-barbuto",
+      "profile_url": "https://volumo.com/artist/38160-maraxe",
       "release_url": null,
-      "instagram": "barbuto.official",
+      "instagram": null,
       "confidence": "verified",
-      "source": "cache",
+      "source": null,
       "sent_today": false,
-      "message": "Hi Barbuto, hope all good. Wanted to flag that your release is featured on our main page on Volumo right now. Loving the direction.\n\nIf you've got a few minutes, would you be up for doing a DJ chart? Just your top 10 at the moment, tracks you're playing or feeling. We'd run it with good visibility across the platform."
+      "message": "What's up MarAxe, hope things are good. Just a heads up that we've featured your release on the Hard Techno page at Volumo. Really digging what you put out.\n\nWould you be down to do a DJ chart? Just a top 10 of what's hitting for you right now. We'd run it with proper visibility across the platform."
     },
     {
-      "name": "Root",
+      "name": "Lesia Karz",
       "display_kind": "Featured Artist",
       "kind_key": "artist",
       "section": "Featured artists",
       "origins": [
-        "Main page"
+        "Hard Techno"
       ],
-      "profile_url": "https://volumo.com/artist/160098-root",
+      "profile_url": "https://volumo.com/artist/152736-lesia-karz",
       "release_url": null,
-      "instagram": "root_cesar",
+      "instagram": "lesiakarz",
+      "confidence": "verified",
+      "source": "volumo",
+      "sent_today": false,
+      "message": "What's up Lesia Karz, hope things are good. Just a heads up that we've featured your release on the Hard Techno page at Volumo. Really digging what you put out.\n\nWould you be down to do a DJ chart? Just a top 10 of what's hitting for you right now. We'd run it with proper visibility across the platform."
+    },
+    {
+      "name": "Gene Karz",
+      "display_kind": "Featured Artist",
+      "kind_key": "artist",
+      "section": "Featured artists",
+      "origins": [
+        "Hard Techno"
+      ],
+      "profile_url": "https://volumo.com/artist/64845-gene-karz",
+      "release_url": null,
+      "instagram": null,
+      "confidence": "verified",
+      "source": null,
+      "sent_today": false,
+      "message": "Hey Gene Karz, got your track up on our Hard Techno page on Volumo at the moment. The production is doing it for us.\n\nQuick ask: want to make a top 10 chart with us? Tracks you're into, tracks you're playing out, whatever vibe. We'll put it in front of our audience with good placement."
+    },
+    {
+      "name": "T78",
+      "display_kind": "Featured Artist",
+      "kind_key": "artist",
+      "section": "Featured artists",
+      "origins": [
+        "Hard Techno"
+      ],
+      "profile_url": "https://volumo.com/artist/32255-t78",
+      "release_url": null,
+      "instagram": "t78official",
+      "confidence": "verified",
+      "source": "volumo",
+      "sent_today": false,
+      "message": "Hey T78, wanted to reach out. Your track is currently on rotation on our Hard Techno page at Volumo. Strong stuff.\n\nIf you're up for it, we'd love a top 10 chart from you. Tracks you're playing, tracks you're rinsing at home, whatever. We push these with solid visibility, so it'd get good eyes."
+    },
+    {
+      "name": "EAS",
+      "display_kind": "Featured Artist",
+      "kind_key": "artist",
+      "section": "Featured artists",
+      "origins": [
+        "Hard Techno"
+      ],
+      "profile_url": "https://volumo.com/artist/31334-eas",
+      "release_url": null,
+      "instagram": null,
+      "confidence": "verified",
+      "source": null,
+      "sent_today": false,
+      "message": "Yo EAS, quick one. We've got your track featured on our Hard Techno page on Volumo. The vibe is exactly what we look for.\n\nWondering if you'd be open to doing a DJ chart with us? Top 10, anything you're currently into or playing. We feature them with strong visibility, so it tends to land well."
+    },
+    {
+      "name": "H! Dude",
+      "display_kind": "Featured Artist",
+      "kind_key": "artist",
+      "section": "Featured artists",
+      "origins": [
+        "Hard Techno"
+      ],
+      "profile_url": "https://volumo.com/artist/39863-h-dude",
+      "release_url": null,
+      "instagram": null,
+      "confidence": "verified",
+      "source": null,
+      "sent_today": false,
+      "message": "Hey H! Dude, got your track up on our Hard Techno page on Volumo at the moment. The production is doing it for us.\n\nQuick ask: want to make a top 10 chart with us? Tracks you're into, tracks you're playing out, whatever vibe. We'll put it in front of our audience with good placement."
+    },
+    {
+      "name": "Luix Spectrum",
+      "display_kind": "Featured Artist",
+      "kind_key": "artist",
+      "section": "Featured artists",
+      "origins": [
+        "Hard Techno"
+      ],
+      "profile_url": "https://volumo.com/artist/6294-luix-spectrum",
+      "release_url": null,
+      "instagram": "luixspectrum",
+      "confidence": "verified",
+      "source": "volumo",
+      "sent_today": false,
+      "message": "Yo Luix Spectrum! Just wanted to drop in and say your release is currently sitting on our Hard Techno page over at Volumo, and it's been getting great reception.\n\nWould you be interested in doing a top 10 chart for us? Tracks you're playing, tracks you're vibing with, whatever feels right. We'd give it solid visibility on our end."
+    },
+    {
+      "name": "Nik Wel",
+      "display_kind": "Featured Artist",
+      "kind_key": "artist",
+      "section": "Featured artists",
+      "origins": [
+        "Hard Techno"
+      ],
+      "profile_url": "https://volumo.com/artist/39342-nik-wel",
+      "release_url": null,
+      "instagram": null,
+      "confidence": "verified",
+      "source": null,
+      "sent_today": false,
+      "message": "Hey Nik Wel, hope you're doing well. Just letting you know your release is up on the Hard Techno page at Volumo at the moment. Really nice work.\n\nWould love to invite you to put together a top 10 chart for the platform. Tracks you're playing, tracks you're loving, your call. We'd feature it properly so it gets seen."
+    },
+    {
+      "name": "Tawa Girl",
+      "display_kind": "Featured Artist",
+      "kind_key": "artist",
+      "section": "Featured artists",
+      "origins": [
+        "Hard Techno"
+      ],
+      "profile_url": "https://volumo.com/artist/13276-tawa-girl",
+      "release_url": null,
+      "instagram": null,
+      "confidence": "verified",
+      "source": null,
+      "sent_today": false,
+      "message": "Yo Tawa Girl, quick one. We've got your track featured on our Hard Techno page on Volumo. The vibe is exactly what we look for.\n\nWondering if you'd be open to doing a DJ chart with us? Top 10, anything you're currently into or playing. We feature them with strong visibility, so it tends to land well."
+    },
+    {
+      "name": "Marco Ginelli",
+      "display_kind": "Featured Artist",
+      "kind_key": "artist",
+      "section": "Featured artists",
+      "origins": [
+        "Hard Techno"
+      ],
+      "profile_url": "https://volumo.com/artist/23885-marco-ginelli",
+      "release_url": null,
+      "instagram": "djmarcoginelli",
+      "confidence": "verified",
+      "source": "volumo",
+      "sent_today": false,
+      "message": "Hey Marco Ginelli, hope you're doing well. Just letting you know your release is up on the Hard Techno page at Volumo at the moment. Really nice work.\n\nWould love to invite you to put together a top 10 chart for the platform. Tracks you're playing, tracks you're loving, your call. We'd feature it properly so it gets seen."
+    },
+    {
+      "name": "Sara Krin",
+      "display_kind": "Featured Artist",
+      "kind_key": "artist",
+      "section": "Featured artists",
+      "origins": [
+        "Hard Techno"
+      ],
+      "profile_url": "https://volumo.com/artist/140257-sara-krin",
+      "release_url": null,
+      "instagram": null,
+      "confidence": "verified",
+      "source": null,
+      "sent_today": false,
+      "message": "Yo Sara Krin, quick one. We've got your track featured on our Hard Techno page on Volumo. The vibe is exactly what we look for.\n\nWondering if you'd be open to doing a DJ chart with us? Top 10, anything you're currently into or playing. We feature them with strong visibility, so it tends to land well."
+    },
+    {
+      "name": "Procopis Gkouklias",
+      "display_kind": "Featured Artist",
+      "kind_key": "artist",
+      "section": "Featured artists",
+      "origins": [
+        "Hard Techno"
+      ],
+      "profile_url": "https://volumo.com/artist/5812-procopis-gkouklias",
+      "release_url": null,
+      "instagram": "procopis.gkouklias",
+      "confidence": "verified",
+      "source": "volumo",
+      "sent_today": false,
+      "message": "Yo Procopis Gkouklias, quick one. We've got your track featured on our Hard Techno page on Volumo. The vibe is exactly what we look for.\n\nWondering if you'd be open to doing a DJ chart with us? Top 10, anything you're currently into or playing. We feature them with strong visibility, so it tends to land well."
+    },
+    {
+      "name": "Wally Lopez",
+      "display_kind": "Featured Artist",
+      "kind_key": "artist",
+      "section": "Featured artists",
+      "origins": [
+        "House"
+      ],
+      "profile_url": "https://volumo.com/artist/53-wally-lopez",
+      "release_url": null,
+      "instagram": "wallylopez",
+      "confidence": "verified",
+      "source": "volumo",
+      "sent_today": false,
+      "message": "Hey Wally Lopez, wanted to reach out. Your track is currently on rotation on our House page at Volumo. Strong stuff.\n\nIf you're up for it, we'd love a top 10 chart from you. Tracks you're playing, tracks you're rinsing at home, whatever. We push these with solid visibility, so it'd get good eyes."
+    },
+    {
+      "name": "DJ Fudge",
+      "display_kind": "Featured Artist",
+      "kind_key": "artist",
+      "section": "Featured artists",
+      "origins": [
+        "House"
+      ],
+      "profile_url": "https://volumo.com/artist/2769-dj-fudge",
+      "release_url": null,
+      "instagram": "djfudgeofficial",
       "confidence": "verified",
       "source": "cache",
       "sent_today": false,
-      "message": "so every kind (artist,\n# release, artist_of_month, release_of_month) uses the same pool.\n#\n# Placeholders:\n#   Root  - the artist's display name\n#   main - the genre page they were featured on (e.g. \"Tech House\").\n#             Falls back to \"main\" if they're only on the main page, so\n#             \"main page\" reads as \"main page\" instead of \"Main page page\".\n\n[default]\nHey Root, hope all's good on your end. Quick note. We've got your track featured on Volumo's main page right now. The sound is seriously on point.\n\nWhile we've got you, would you be up for putting together a DJ chart for us? Just your top 10 picks at the moment, stuff you're spinning or feeling lately. We'd push it out with proper placement across the platform."
+      "message": "Hey DJ Fudge, wanted to reach out. Your track is currently on rotation on our House page at Volumo. Strong stuff.\n\nIf you're up for it, we'd love a top 10 chart from you. Tracks you're playing, tracks you're rinsing at home, whatever. We push these with solid visibility, so it'd get good eyes."
+    },
+    {
+      "name": "Seumas Norv",
+      "display_kind": "Featured Artist",
+      "kind_key": "artist",
+      "section": "Featured artists",
+      "origins": [
+        "House"
+      ],
+      "profile_url": "https://volumo.com/artist/13088-seumas-norv",
+      "release_url": null,
+      "instagram": "seumasnorv",
+      "confidence": "verified",
+      "source": "cache",
+      "sent_today": false,
+      "message": "Hey Seumas Norv, wanted to reach out. Your track is currently on rotation on our House page at Volumo. Strong stuff.\n\nIf you're up for it, we'd love a top 10 chart from you. Tracks you're playing, tracks you're rinsing at home, whatever. We push these with solid visibility, so it'd get good eyes."
+    },
+    {
+      "name": "FDF (Italy)",
+      "display_kind": "Featured Artist",
+      "kind_key": "artist",
+      "section": "Featured artists",
+      "origins": [
+        "House"
+      ],
+      "profile_url": "https://volumo.com/artist/143349-fdf-italy",
+      "release_url": null,
+      "instagram": "fdfdj",
+      "confidence": "verified",
+      "source": "cache",
+      "sent_today": false,
+      "message": "Hi FDF (Italy), hope you're well. Your release is featured on the House page at Volumo right now, and the response has been great. Quality release.\n\nWould you be interested in making a DJ chart for us? A simple top 10 of tunes you're feeling or playing lately. We'd give it proper placement on the platform."
+    },
+    {
+      "name": "Di Saronno",
+      "display_kind": "Featured Artist",
+      "kind_key": "artist",
+      "section": "Featured artists",
+      "origins": [
+        "House"
+      ],
+      "profile_url": "https://volumo.com/artist/163926-di-saronno",
+      "release_url": null,
+      "instagram": "disaronnomusic",
+      "confidence": "verified",
+      "source": "cache",
+      "sent_today": false,
+      "message": "Yo Di Saronno! Just wanted to drop in and say your release is currently sitting on our House page over at Volumo, and it's been getting great reception.\n\nWould you be interested in doing a top 10 chart for us? Tracks you're playing, tracks you're vibing with, whatever feels right. We'd give it solid visibility on our end."
+    },
+    {
+      "name": "Dario D'Attis",
+      "display_kind": "Featured Artist",
+      "kind_key": "artist",
+      "section": "Featured artists",
+      "origins": [
+        "House"
+      ],
+      "profile_url": "https://volumo.com/artist/18369-dario-dattis",
+      "release_url": null,
+      "instagram": null,
+      "confidence": "verified",
+      "source": null,
+      "sent_today": false,
+      "message": "Yo Dario D'Attis! Just wanted to drop in and say your release is currently sitting on our House page over at Volumo, and it's been getting great reception.\n\nWould you be interested in doing a top 10 chart for us? Tracks you're playing, tracks you're vibing with, whatever feels right. We'd give it solid visibility on our end."
+    },
+    {
+      "name": "Supernova",
+      "display_kind": "Featured Artist",
+      "kind_key": "artist",
+      "section": "Featured artists",
+      "origins": [
+        "House"
+      ],
+      "profile_url": "https://volumo.com/artist/13933-supernova",
+      "release_url": null,
+      "instagram": null,
+      "confidence": "verified",
+      "source": null,
+      "sent_today": false,
+      "message": "Hey Supernova, got your track up on our House page on Volumo at the moment. The production is doing it for us.\n\nQuick ask: want to make a top 10 chart with us? Tracks you're into, tracks you're playing out, whatever vibe. We'll put it in front of our audience with good placement."
+    },
+    {
+      "name": "The Deepshakerz",
+      "display_kind": "Featured Artist",
+      "kind_key": "artist",
+      "section": "Featured artists",
+      "origins": [
+        "House"
+      ],
+      "profile_url": "https://volumo.com/artist/1383-the-deepshakerz",
+      "release_url": null,
+      "instagram": null,
+      "confidence": "verified",
+      "source": null,
+      "sent_today": false,
+      "message": "Hey The Deepshakerz, got your track up on our House page on Volumo at the moment. The production is doing it for us.\n\nQuick ask: want to make a top 10 chart with us? Tracks you're into, tracks you're playing out, whatever vibe. We'll put it in front of our audience with good placement."
+    },
+    {
+      "name": "Tripmastaz",
+      "display_kind": "Featured Artist",
+      "kind_key": "artist",
+      "section": "Featured artists",
+      "origins": [
+        "House"
+      ],
+      "profile_url": "https://volumo.com/artist/13808-tripmastaz",
+      "release_url": null,
+      "instagram": null,
+      "confidence": "verified",
+      "source": null,
+      "sent_today": false,
+      "message": "Yo Tripmastaz! Just wanted to drop in and say your release is currently sitting on our House page over at Volumo, and it's been getting great reception.\n\nWould you be interested in doing a top 10 chart for us? Tracks you're playing, tracks you're vibing with, whatever feels right. We'd give it solid visibility on our end."
+    },
+    {
+      "name": "Kevin McKay",
+      "display_kind": "Featured Artist",
+      "kind_key": "artist",
+      "section": "Featured artists",
+      "origins": [
+        "House"
+      ],
+      "profile_url": "https://volumo.com/artist/19583-kevin-mckay",
+      "release_url": null,
+      "instagram": "kevinmckay",
+      "confidence": "verified",
+      "source": "cache",
+      "sent_today": false,
+      "message": "so every kind (artist,\n# release, artist_of_month, release_of_month) uses the same pool.\n#\n# Placeholders:\n#   Kevin McKay  - the artist's display name\n#   House - the genre page they were featured on (e.g. \"Tech House\").\n#             Falls back to \"main\" if they're only on the main page, so\n#             \"House page\" reads as \"main page\" instead of \"Main page page\".\n\n[default]\nHey Kevin McKay, hope all's good on your end. Quick note. We've got your track featured on Volumo's House page right now. The sound is seriously on point.\n\nWhile we've got you, would you be up for putting together a DJ chart for us? Just your top 10 picks at the moment, stuff you're spinning or feeling lately. We'd push it out with proper placement across the platform."
+    },
+    {
+      "name": "Space Motion",
+      "display_kind": "Featured Artist",
+      "kind_key": "artist",
+      "section": "Featured artists",
+      "origins": [
+        "House"
+      ],
+      "profile_url": "https://volumo.com/artist/28105-space-motion",
+      "release_url": null,
+      "instagram": "spacemotionmusic",
+      "confidence": "verified",
+      "source": "volumo",
+      "sent_today": false,
+      "message": "What's up Space Motion, hope things are good. Just a heads up that we've featured your release on the House page at Volumo. Really digging what you put out.\n\nWould you be down to do a DJ chart? Just a top 10 of what's hitting for you right now. We'd run it with proper visibility across the platform."
+    },
+    {
+      "name": "Piem",
+      "display_kind": "Featured Artist",
+      "kind_key": "artist",
+      "section": "Featured artists",
+      "origins": [
+        "House"
+      ],
+      "profile_url": "https://volumo.com/artist/10730-piem",
+      "release_url": null,
+      "instagram": "piem_music",
+      "confidence": "verified",
+      "source": "volumo",
+      "sent_today": false,
+      "message": "Hey Piem, wanted to reach out. Your track is currently on rotation on our House page at Volumo. Strong stuff.\n\nIf you're up for it, we'd love a top 10 chart from you. Tracks you're playing, tracks you're rinsing at home, whatever. We push these with solid visibility, so it'd get good eyes."
+    },
+    {
+      "name": "Steve Lawler",
+      "display_kind": "Featured Artist",
+      "kind_key": "artist",
+      "section": "Featured artists",
+      "origins": [
+        "House"
+      ],
+      "profile_url": "https://volumo.com/artist/3607-steve-lawler",
+      "release_url": null,
+      "instagram": "djstevelawler",
+      "confidence": "verified",
+      "source": "volumo",
+      "sent_today": false,
+      "message": "Hi Steve Lawler, hope you're well. Your release is featured on the House page at Volumo right now, and the response has been great. Quality release.\n\nWould you be interested in making a DJ chart for us? A simple top 10 of tunes you're feeling or playing lately. We'd give it proper placement on the platform."
+    },
+    {
+      "name": "Qubiko",
+      "display_kind": "Featured Artist",
+      "kind_key": "artist",
+      "section": "Featured artists",
+      "origins": [
+        "House"
+      ],
+      "profile_url": "https://volumo.com/artist/17344-qubiko",
+      "release_url": null,
+      "instagram": "qubikomusic",
+      "confidence": "verified",
+      "source": "volumo",
+      "sent_today": false,
+      "message": "Hi Qubiko, hope all good. Wanted to flag that your release is featured on our House page on Volumo right now. Loving the direction.\n\nIf you've got a few minutes, would you be up for doing a DJ chart? Just your top 10 at the moment, tracks you're playing or feeling. We'd run it with good visibility across the platform."
+    },
+    {
+      "name": "Yousef",
+      "display_kind": "Featured Artist",
+      "kind_key": "artist",
+      "section": "Featured artists",
+      "origins": [
+        "House"
+      ],
+      "profile_url": "https://volumo.com/artist/20371-yousef",
+      "release_url": null,
+      "instagram": "yousefcircus",
+      "confidence": "verified",
+      "source": "volumo",
+      "sent_today": false,
+      "message": "Hey Yousef, wanted to reach out. Your track is currently on rotation on our House page at Volumo. Strong stuff.\n\nIf you're up for it, we'd love a top 10 chart from you. Tracks you're playing, tracks you're rinsing at home, whatever. We push these with solid visibility, so it'd get good eyes."
+    },
+    {
+      "name": "Marco Lys",
+      "display_kind": "Featured Artist",
+      "kind_key": "artist",
+      "section": "Featured artists",
+      "origins": [
+        "House"
+      ],
+      "profile_url": "https://volumo.com/artist/15622-marco-lys",
+      "release_url": null,
+      "instagram": "djmarcolys",
+      "confidence": "verified",
+      "source": "volumo",
+      "sent_today": false,
+      "message": "Hi Marco Lys, hope the week's treating you well. Wanted to let you know your latest is featured on the House section at Volumo. Genuinely strong release.\n\nIf you're keen, we'd love to have you put together a DJ chart, a top 10 of what's in rotation for you right now. Happy to feature it prominently once it's done."
     }
   ],
   "source_urls": {
-    "Main page": "https://volumo.com/"
+    "Hard Techno": "https://volumo.com/hard-techno",
+    "House": "https://volumo.com/house"
   },
   "last_selection": [
-    "main"
+    "hard-techno",
+    "house"
   ],
   "messages": [
-    "Fetching 1 Volumo page(s) in parallel...",
-    "  Main page: 46 item(s)",
-    "Looking up details for 46 creator(s) in parallel...",
-    "Searching Instagram for 4 missing handle(s) with 4 parallel pages...",
-    "  IG [1/4] Sopik -> not found",
-    "  IG [2/4] ANOTR -> not found",
-    "  IG [3/4] Fred P -> not found",
-    "  IG [4/4] David Labeij -> not found"
+    "Fetching 2 Volumo page(s) in parallel...",
+    "  Hard Techno: 43 item(s)",
+    "  House: 54 item(s)",
+    "Looking up details for 97 creator(s) in parallel...",
+    "Searching Instagram for 44 missing handle(s) with 4 parallel pages...",
+    "  IG [1/44] VOIDRAGE -> not found",
+    "  IG [2/44] Lively Racket -> not found",
+    "  IG [3/44] Thick As Thieves -> not found",
+    "  IG [4/44] Aphøtic -> not found",
+    "  IG [5/44] ZNM -> not found",
+    "  IG [6/44] Domingo Caballero -> not found",
+    "  IG [7/44] Ericson (DE) -> not found",
+    "  IG [8/44] ANIBAL SANTOS -> not found",
+    "  IG [9/44] FLuH -> not found",
+    "  IG [10/44] Felix R -> not found",
+    "  IG [11/44] VLTN -> not found",
+    "  IG [12/44] YOOMANS -> not found",
+    "  IG [13/44] DJ Johan Weiss -> not found",
+    "  IG [14/44] KTMRH -> not found",
+    "  IG [15/44] LEYDON -> not found",
+    "  IG [16/44] N2N MUSIC -> not found",
+    "  IG [17/44] TEUTON -> not found",
+    "  IG [18/44] DJ Jordan -> not found",
+    "  IG [19/44] CALDAS PT -> not found",
+    "  IG [20/44] Starr Traxx -> not found",
+    "  IG [21/44] La La -> not found",
+    "  IG [22/44] Inda Jani -> not found",
+    "  IG [23/44] Laesh -> not found",
+    "  IG [24/44] Mat.Joe -> not found",
+    "  IG [25/44] Audrey -> not found",
+    "  IG [26/44] ANOTR -> not found",
+    "  IG [27/44] Unknown -> not found",
+    "  IG [28/44] David Penn -> not found",
+    "  IG [29/44] Marco Anzalone -> not found",
+    "  IG [30/44] Sopik -> not found",
+    "  IG [31/44] Emiliano Cassano -> not found",
+    "  IG [32/44] Cristian Glitch -> not found",
+    "  IG [33/44] Kamil Van Derson -> not found",
+    "  IG [34/44] MarAxe -> not found",
+    "  IG [35/44] Gene Karz -> not found",
+    "  IG [36/44] EAS -> not found",
+    "  IG [37/44] H! Dude -> not found",
+    "  IG [38/44] Nik Wel -> not found",
+    "  IG [39/44] Tawa Girl -> not found",
+    "  IG [40/44] Sara Krin -> not found",
+    "  IG [41/44] Supernova -> not found",
+    "  IG [42/44] Dario D'Attis -> not found",
+    "  IG [43/44] Tripmastaz -> not found",
+    "  IG [44/44] The Deepshakerz -> not found"
   ]
 }
